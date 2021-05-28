@@ -13,6 +13,3 @@ Key elements of the code:
 ## Author
 Nicole Neo, [nicolenwd](https://github.com/nicolenwd)
 
-## License
-wheregotcovid is released under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
