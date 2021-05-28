@@ -9,7 +9,7 @@ my_packages = c("dplyr", "readr", "data.table",
 
 install_if_missing = function(p) {
   if (p %in% rownames(installed.packages()) == FALSE) {
-    install.packages(p)
+    install.packages(p, dependencies = TRUE)
   }
 }
 
