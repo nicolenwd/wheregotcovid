@@ -1,6 +1,6 @@
 # R script to install packages if not already installed
 
-my_packages = c("tidyverse", "dplyr", "readr", "data.table",
+my_packages = c("dplyr", "readr", "data.table",
                 "httr",
                 "sp", "sf", "rgdal",
                 "leaflet", "leaflet.extras",
