@@ -16,7 +16,7 @@ library(shinythemes)
 library(DT)
 
 # Loading R script for leaflet map
-source("2_map.R")
+source("map.R")
 
 ## B. Shiny UI
 ui <- navbarPage(title = "wheregotcovid",
