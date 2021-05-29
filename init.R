@@ -2,7 +2,7 @@
 
 my_packages = c("dplyr", "readr", "data.table",
                 "httr", 
-                "gdal", "proj", "rgeos", "gstat", "maptools", "deldir"
+                "gdal", "proj", "rgeos", "gstat", "maptools", "deldir",
                 "sp", "sf", "rgdal",
                 "leaflet", "leaflet.extras",
                 "htmltools", "htmlwidgets", "rvest",
