@@ -1,7 +1,8 @@
 # R script to install packages if not already installed
 
 my_packages = c("dplyr", "readr", "data.table",
-                "httr",
+                "httr", 
+                "gdal", "proj", "rgeos", "gstat", "maptools", "deldir"
                 "sp", "sf", "rgdal",
                 "leaflet", "leaflet.extras",
                 "htmltools", "htmlwidgets", "rvest",
@@ -14,3 +15,4 @@ install_if_missing = function(p) {
 }
 
 invisible(sapply(my_packages, install_if_missing))
+
