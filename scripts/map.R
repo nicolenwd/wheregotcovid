@@ -48,7 +48,10 @@ marker_data$label <- unlist(lapply(seq(nrow(marker_data)), function(i) {
          marker_data[i, "n_cases"],
          marker_data[i, "details_all"])
 }))
-marker_data <- marker_data %>% select(-details_all)
+marker_data <- marker_data %>% 
+  select(Location, Address, lon, lat, n_cases, label) %>%
+  distinct(Location, .keep_all = T) %>%
+  arrange(desc(n_cases))
 
 # Leaflet map of individual locations
 map_locations <- marker_data %>%
@@ -61,8 +64,8 @@ map_locations <- marker_data %>%
                    label = ~lapply(label, HTML), 
                    labelOptions = labelOptions(textsize = "13px"),
                    group = "Locations") %>%
-  addSearchFeatures(targetGroups = "Locations",
-                    options = searchFeaturesOptions(zoom = 16, autoCollapse = T)) %>%
+  # addSearchFeatures(targetGroups = "Locations",
+  #                   options = searchFeaturesOptions(zoom = 16, autoCollapse = T)) %>%
   setView(lat = 1.337896, lng = 103.839627, zoom = 11) #Singapore coordinates
 map_locations
 
