@@ -58,7 +58,7 @@ map_locations <- marker_data %>%
   leaflet(options = leafletOptions(minZoom = 11, maxZoom = 18)) %>%
   addProviderTiles("OneMapSG.Default", group = "OneMapSG") %>%
   addCircleMarkers(lng = ~lon, lat = ~lat,
-                   radius = ~(n_cases*3),
+                   radius = ~(n_cases*3.5),
                    fillOpacity = 0.6, fillColor = "Red", 
                    weight = 2, color = "Black",
                    label = ~lapply(label, HTML), 

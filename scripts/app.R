@@ -24,6 +24,7 @@ source(here("scripts", "map.R"))
 ## B. Shiny UI
 ui <- navbarPage(title = "wheregotcovid",
                  theme = shinytheme("cosmo"),
+                 tags$head(shiny::includeHTML(("google_analytics.html"))),
                  tabPanel("Maps",
                     tags$div("Last Updated: ", Sys.Date(), style = "text-align:right"),
                     tags$h1(tags$strong("Maps")), 
