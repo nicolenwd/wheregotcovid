@@ -17,11 +17,7 @@ The **'Data'** tab contains an interactive table with details (date, time, locat
 
 ## **Source**
 - <span style="font-size:18px">**Public places visited by COVID19 cases**: extracted from daily [MOH Press Releases - Annexes](https://www.moh.gov.sg/news-highlights).</span>
-
-## **Code**
-<span style="font-size:18px">
-Code and input data used to generate this site can be found [here](https://github.com/nicolenwd/wheregotcovid).
-</span>
+<br><br>
 
 ## **Author**
 <span style="font-size:18px">
