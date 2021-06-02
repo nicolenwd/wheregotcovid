@@ -24,7 +24,6 @@ source(here("scripts", "map.R"))
 ## B. Shiny UI
 ui <- navbarPage(title = "wheregotcovid",
                  theme = shinytheme("cosmo"),
-                 tags$head(shiny::includeHTML(("google_analytics.html"))),
                  tabPanel("Maps",
                     tags$div("Last Updated: ", Sys.Date(), style = "text-align:right"),
                     tags$h1(tags$strong("Maps")), 
@@ -44,7 +43,8 @@ ui <- navbarPage(title = "wheregotcovid",
                            style = "font-size:18px"),
                     tags$p("Data from", tags$a(href = "https://www.moh.gov.sg/news-highlights", "MOH Press Releases - Annexes")),
                     DTOutput("data")),
-                 tabPanel("About", includeMarkdown(here("scripts", "app_about.md")))
+                 tabPanel("About", includeMarkdown(here("scripts", "app_about.md"))),
+                 tags$head(shiny::includeHTML(("analytics.html")))
 )
 
 
