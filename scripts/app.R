@@ -31,7 +31,7 @@ ui <- navbarPage(title = "wheregotcovid",
                            tags$br(),
                            "Heatmap: Map of Singapore coloured by number of visits per area (past 14 days)",
                            style = "font-size:18px"),
-                    tags$p(tags$em("Hover over the map for details")),
+                    tags$p(tags$em("Hover over/tap on the map for details")),
                     tabsetPanel(
                       tabPanel("Locations", leafletOutput("locations", height = 500)),
                       tabPanel("Heatmap", leafletOutput("heatmap", height = 500))
@@ -60,7 +60,7 @@ server <- function(input, output, session){
   output$data <- renderDT(
     visit_data,
     filter = "top",
-    options = list(pageLength = 20, searching = F)
+    options = list(pageLength = 20, dom = "ltipr")
     )
 }
   
