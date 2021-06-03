@@ -54,19 +54,18 @@ marker_data <- marker_data %>%
   arrange(desc(n_cases))
 
 # Leaflet map of individual locations
-map_locations <- marker_data %>%
-  leaflet(options = leafletOptions(minZoom = 11, maxZoom = 18)) %>%
+map_locations <- leaflet(options = leafletOptions(minZoom = 11, maxZoom = 18)) %>%
   addProviderTiles("OneMapSG.Default", group = "OneMapSG") %>%
-  addCircleMarkers(lng = ~lon, lat = ~lat,
-                   radius = ~(n_cases*3.5),
+  addCircleMarkers(data = marker_data,
+                   lng = ~lon, lat = ~lat,
+                   radius = ~(n_cases*4),
                    fillOpacity = 0.6, fillColor = "Red", 
                    weight = 2, color = "Black",
                    label = ~lapply(label, HTML), 
                    labelOptions = labelOptions(textsize = "13px"),
                    group = "Locations") %>%
-  # addSearchFeatures(targetGroups = "Locations",
-  #                   options = searchFeaturesOptions(zoom = 16, autoCollapse = T)) %>%
-  setView(lat = 1.337896, lng = 103.839627, zoom = 11) #Singapore coordinates
+ setView(lat = 1.337896, lng = 103.839627, zoom = 11) %>% #Singapore coordinates
+  addResetMapButton()
 map_locations
 
 
@@ -123,8 +122,8 @@ prop_pal <- colorNumeric(palette = c("#ffffb2", "#fecc5c", "#fd8d3c", "#e34a33",
                          domain = merged$n)
 
 # Leaflet heatmap of distribution of location visits by COVID19 cases across PAs
-map_heatmap <- merged %>%
-  leaflet(options = leafletOptions(minZoom = 11, maxZoom = 18)) %>%
+map_heatmap <- leaflet(data = merged,
+                       options = leafletOptions(minZoom = 10, maxZoom = 18)) %>%
   addProviderTiles("OneMapSG.Default", group = "OneMapSG") %>%
   addProviderTiles("CartoDB.Positron", group = "CartoDB") %>%
   addPolygons(weight = 1, color = "Grey", opacity = 0.8, 
@@ -140,5 +139,6 @@ map_heatmap <- merged %>%
   addLayersControl(baseGroups = c("CartoDB", "OneMapSG"),
                    options = layersControlOptions(collapsed = FALSE),
                    position = "topright") %>%
-  setView(lat = 1.337896, lng = 103.839627, zoom = 11) #Singapore coordinates
+  setView(lat = 1.337896, lng = 103.839627, zoom = 10) %>% #Singapore coordinates
+  addResetMapButton()
 map_heatmap

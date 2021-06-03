@@ -15,11 +15,11 @@ visit_data_raw <- fread(here("data", "visit_data_raw.csv"), header = T, encoding
 ## B. Data pre-processing
 # Cleaning misspelled locations/stores
 visit_data_clean <- visit_data_raw %>%
-  mutate(Location = sub("West Gate", "Westgate", Location, fixed = T)) %>%
-  mutate(Location = sub("Wood Square", "Woods Square", Location, fixed = T)) %>%
-  mutate(Location = sub("Giant Supermarket", "Giant", Location, fixed = T)) %>%
-  mutate(Address = sub("Seng Kang", "Sengkang", Address, fixed = T)) %>%
-  mutate(Store = sub(visit_data_raw[43, "Store"], "Toys'R'Us", Store, fixed = T))
+  mutate(Location = gsub("^Giant$", "Giant Supermarket", Location)) %>%
+  mutate(Location = gsub("^Funan$", "Funan Mall", Location)) %>%
+  mutate(Location = gsub("^Seletar Mall$", "The Seletar Mall", Location)) %>%
+  mutate(Address = gsub("Seng Kang", "Sengkang", Address, fixed = T)) %>%
+  mutate(Store = gsub(visit_data_raw[37, "Store"], "Toys'R'Us", Store, fixed = T))
 
 # # Replacing values in wrong column
 # which((visit_data_clean$Location == "McDonald's"), arr.ind = T)

@@ -1,7 +1,7 @@
 # **About this page**
 <br>
 <span style="font-size:18px">
-This page displays maps and data of public places visited by COVID19 cases in Singapore in the past 14 days. 
+This page displays maps and data of public places visited by COVID19 cases in Singapore in the past 14 days. It is updated once daily. 
 </span>
 
 <span style="font-size:18px">
@@ -17,6 +17,11 @@ The **'Data'** tab contains an interactive table with details (date, time, locat
 
 ## **Source**
 - <span style="font-size:18px">**Public places visited by COVID19 cases**: extracted from daily [MOH Press Releases - Annexes](https://www.moh.gov.sg/news-highlights).</span>
+<br><br>
+
+## **Code**
+<span style="font-size:18px">
+Code and input data used to generate this site can be found [here](https://github.com/nicolenwd/wheregotcovid).</span>
 <br><br>
 
 ## **Author**
