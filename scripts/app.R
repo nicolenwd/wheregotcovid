@@ -11,7 +11,7 @@ library(leaflet)
 library(leaflet.extras)
 library(htmltools)
 library(htmlwidgets)
-library(rvest)
+library(httr)
 library(shiny)
 library(shinythemes)
 library(DT)
@@ -82,7 +82,7 @@ server <- function(input, output, session){
     url <- "https://developers.onemap.sg/commonapi/search"
     query_params <- list(searchVal = as.character(input$search), returnGeom = 'Y', 
                          getAddrDetails= 'Y', pageNum= '1')
-    result <- httr::GET(url, query = query_params)
+    result <- GET(url, query = query_params)
     lon <- content(result)$results[1][[1]]$LONGITUDE
     lat <- content(result)$results[1][[1]]$LATITUDE
     lon_lat <- data.frame(lon, lat)
