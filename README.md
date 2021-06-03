@@ -1,6 +1,8 @@
 # wheregotcovid
 wheregotcovid is an interactive RShiny web app displaying maps and data of public places visited by COVID19 cases in Singapore in the past 14 days. Click [here](https://wheregotcovid.herokuapp.com) to access the app. The app is updated once daily.
 
+There are other great COVID19-related tools and apps out there; this app aims to complement those existing resources.
+
 This github page contains the codes used to create the app.
 
 ## Code
@@ -13,4 +15,7 @@ Key elements of the code:
 
 ## Author
 Nicole Neo, [nicolenwd](https://github.com/nicolenwd)
+
+## License
+wheregotcovid is released under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
