@@ -2,4 +2,5 @@
 .RData
 .Ruserdata
 .Rproj.user
-scripts/dump.R
+scripts/draft.R
+scripts/extract_pdf_data.ipynb
