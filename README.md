@@ -7,6 +7,7 @@ This github page contains the codes used in the app.
 
 ## Code
 Key elements of the code:
+- *scripts/extract_pdf_data.ipynb* - a Python script that extracts visit data from MOH Press Releases
 - *scripts/preprocessing.R* – an R script that cleans the extracted data and geocodes the addresses to to map the locations in the app
 - *scripts/map.R* – an R script that creates leaflet maps of the places visited by COVID19 cases
 - *scripts/app.R* - an R script used to render the Shiny app
