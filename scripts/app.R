@@ -28,7 +28,7 @@ now <- Sys.time()
 ui <- navbarPage(title = "wheregotcovid",
                  theme = shinytheme("cosmo"),
                  tabPanel("Maps",
-                    tags$div("Last Updated: 3 June 2021", style = "text-align:right"),
+                    tags$div("Last Updated: 4 June 2021", style = "text-align:right"),
                     tags$h1(tags$strong("Maps")), 
                     tags$div("Locations: Individual public places with details of visits",
                            tags$br(),
@@ -44,7 +44,7 @@ ui <- navbarPage(title = "wheregotcovid",
                       tabPanel("Heatmap", uiOutput("heatmap_ui", height = 500))
                     )),
                  tabPanel("Data", 
-                    tags$div("Last Updated: 3 June 2021", style = "text-align:right"),
+                    tags$div("Last Updated: 4 June 2021", style = "text-align:right"),
                     tags$h1(tags$strong("Data")),
                     tags$p("Details of public places in Singapore visited by COVID19 cases (past 14 days)",
                            style = "font-size:18px"),
@@ -98,16 +98,6 @@ server <- function(input, output, session){
     search_data <- searchInput()
     leafletProxy("heatmap") %>% 
       setView(lng = search_data$lon, lat = search_data$lat, zoom = 13) 
-  })
-  
-  # Keeping the app alive for 5min
-  observe({
-    if (Sys.time() < now + 300){
-      invalidateLater(29000)
-      cat(".")
-    } else {
-      return()
-    }
   })
 }
   

@@ -1,17 +1,7 @@
 Date,Time,Location,Store,Address,lon,lat
-19 to 21 May,0800h to 2200h,Westgate,,3 Gateway Drive,103.742722109979,1.33429478930696
-19 to 21 May,0930h to 2130h,Holland Piazza,Tiger Sugar,3 Lorong Liput,103.795246166084,1.31064349551562
-19 May,1030h to 2000h,Westgate,Fun Toast,3 Gateway Drive,103.742722109979,1.33429478930696
-19 to 30 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
-19 May,1420h to 1500h,Health Management Centre,,809 French Road,103.862059784174,1.3083939667367
-19 May,1420h to 1525h,Woodlands Civic Centre,Workforce Singapore's Careers Connect,900 South Woodlands Drive,103.786857742853,1.43518691179968
-19 May,1430h to 1535h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
-19 May,1515h to 1550h,Causeway Point,Tonkotsu Hototogisu,1 Woodlands Square,103.786009973678,1.43608867729912
-19 May,1520h to 2100h,Westgate,Pizza Hut,3 Gateway Drive,103.742722109979,1.33429478930696
-19 May,1600h to 2300h,Punggol Plaza,,168 Punggol Field,103.912976437583,1.39418409438271
-19 to 20 May,1600h to 0020h,Resorts World Sentosa Casino,,8 Sentosa Gateway,103.820310245477,1.25675542276498
-19 May,1745h to 1830h,Westgate,RedMan by Phoon Huat,3 Gateway Drive,103.742722109979,1.33429478930696
-20 May,0810h to 1255h,Resorts World Sentosa Casino,,8 Sentosa Gateway,103.820310245477,1.25675542276498
+20 May,0800h to 2200h,Westgate,,3 Gateway Drive,103.742722109979,1.33429478930696
+20 to 21 May,0930h to 2130h,Holland Piazza,Tiger Sugar,3 Lorong Liput,103.795246166084,1.31064349551562
+20 May,0910h to 1255h,Resorts World Sentosa Casino,,8 Sentosa Gateway,103.820310245477,1.25675542276498
 20 May,1150h to 1225h,Prime Supermarket,,373 Bukit Batok Street 31,103.750397174291,1.35892457118178
 20 May,1340h to 1510h,Kaki Bukit Recreation Centre,POSB Account Services Centre,7 Kaki Bukit Avenue 3,103.90663168981,1.33729714367902
 20 May,1420h to 1520h,ION Orchard,FLNT at 1-ATICO,2 Orchard Turn,103.831774296637,1.30419841973372
@@ -20,6 +10,8 @@ Date,Time,Location,Store,Address,lon,lat
 20 May,1700h to 2200h,Poke Theory,,238 Thomson Road,103.843840430508,1.32045851808391
 20 May,1730h to 1820h,Chinatown Point,,133 New Bridge Road,103.844942912274,1.28518516098542
 20 May,1820h to 1920h,Rains Foot Massage,,6 Hougang Avenue 3,103.893980503167,1.36271446291047
+21 May,0800h to 0850h,Yuhua Community Club,,90 Boon Lay Way,103.737115832566,1.33995851319377
+21 May,0800h to 2200h,Westgate,,3 Gateway Drive,103.742722109979,1.33429478930696
 21 May,0845h to 0915h,Quan Shui Wet Market,,156 Bukit Batok Street 11,103.743842009803,1.34836489977938
 21 May,0915h to 0950h,Le Quest Mall,FairPrice Finest,4 Bukit Batok Street 41,103.741127005764,1.35594171176111
 21 May,1030h to 1100h,Sri Murugan Hill Temple,,931 Upper Bukit Timah Road,103.761623921943,1.37707008676107
@@ -40,10 +32,14 @@ Date,Time,Location,Store,Address,lon,lat
 21 May,2100h to 2130h,Boon Lay Shopping Centre,NTUC FairPrice,221 Boon Lay Place,103.712472819666,1.34637376407877
 22 May,0000h to 0400h,The Woodgrove,McDonald's,30 Woodlands Avenue 1,103.781337285958,1.42933633490183
 22 May,0740h to 2000h,West Mall,Subway,1 Bukit Batok Central Link,103.749021976618,1.35018916560505
+22 May,0830h to 0930h,Fu Nan Traditional Chinese Medicine Centre,,152 Bukit Batok Street 11,103.744257268105,1.34830189530173
 22 May,1220h to 1300h,Hup Choon Eating House,,1 Binjai Park,103.786493273519,1.33583983703734
 22 May,1230h to 1300h,NTUC FairPrice,,1 Jalan Bukit Merah,103.808286977232,1.28644157642074
+22 May,1240h to 1310h,NTUC FairPrice,,1 Jalan Bukit Merah,103.808286977232,1.28644157642074
+22 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
 22 May,1435h to 1510h,Sunshine Place,Giant Supermarket,475 Choa Chu Kang Avenue 3,103.738931794069,1.37805614752084
-22 May,1500h to 2100h,Boon Lay Shopping Centre,NTUC FairPrice,221 Boon Lay Place,103.712472819666,1.34637376407877
+22 May,1500h to 2100h,Westgate,Pizza Hut,3 Gateway Drive,103.742722109979,1.33429478930696
+22 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
 22 May,1515h to 1620h,Joo Chiat Complex,,1 Joo Chiat Road,103.898397565472,1.31593802099833
 22 May,1520h to 1625h,Mustafa Centre,,145 Syed Alwi Road,103.855002052529,1.31053493112423
 22 May,1530h to 1630h,Bukit Timah Plaza,FairPrice Finest,1 Jalan Anak Bukit,103.778560467143,1.33865677622928
@@ -56,71 +52,85 @@ Date,Time,Location,Store,Address,lon,lat
 23 May,0815h to 0920h,Sheng Siong Supermarket,,108 McNair Road,103.859382719506,1.3216190383169
 23 May,1100h to 1225h,Jurong Point,,1 Jurong West Central 2,103.706685012654,1.33945200436318
 23 May,1100h to 2100h,Indobowl and Royz et Vous,,39 Sultan Gate,103.860598602583,1.3015049295861
+23 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
 23 May,1430h to 1535h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
 23 May,1755h to 1830h,Changi City Point,,5 Changi Business Park Central 1,103.962946043413,1.33408363820793
 23 May,1955h to 2030h,NEX,FairPrice Xtra,23 Serangoon Central,103.871861615443,1.35067552120318
 24 May,0600h to 1500h,The Woodgrove,McDonald's,30 Woodlands Avenue 1,103.781337285958,1.42933633490183
-24 May,0600h to 1900h,Food Hub,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
-24 May,1000h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
+24 to 28 May,0600h to 1900h,Food Hub,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
+24 to 29 May,1000h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
+24 May,1155h to 1625h,Ramada,,16 Ah Hood Road,103.846340466467,1.32687187826846
 24 May,1230h to 1300h,D'FoodStop@ABC,,2 Jalan Bukit Merah,103.80686187976,1.2866292132996
 24 May,1235h to 1310h,NTUC FairPrice,,30 Bendemeer Road,103.863880362385,1.31906233206995
+24 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
 24 May,1535h to 1640h,Funan Mall,Popsical,107 North Bridge Road,103.849984790048,1.29124400604241
+24 May,1745h to 1845h,Yew Tee Community Club,,20 Choa Chu Kang Street 52,103.744971294739,1.39480564592114
 24 May,2025h to 2100h,Causeway Point,,1 Woodlands Square,103.786009973678,1.43608867729912
-25 May,0600h to 1900h,Food Hub,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
 25 May,0920h to 1000h,Sheng Siong Supermarket,,108 McNair Road,103.859382719506,1.3216190383169
-25 May,1000h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
-25 May,1230h to 1430h,Funan Mall,Popsical,107 North Bridge Road,103.849984790048,1.29124400604241
+25 May,1230h to 1430h,Beauty World Centre,Beauty World Thai Massage,144 Upper Bukit Timah Road,103.776539385678,1.34241264188642
 25 May,1500h to 1550h,Tradehub 21,Rodalink Jurong East Bicycle Megastore,18 Boon Lay Way,103.752749137065,1.32855512493378
 25 May,1535h to 1630h,Sheng Siong Supermarket,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
-26 May,0900h to 1700h,Sri Murugan Trading Pte Ltd,,308 Anchorvale Road,103.886445107411,1.38925397515391
+25 May,1800h to 1900h,Al Barakah Health and Beauty Mart,,302 Woodlands Street 31,103.774474062652,1.43186128911103
+26 to 27 May,0900h to 1700h,Sri Murugan Trading Pte Ltd,,308 Anchorvale Road,103.886445107411,1.38925397515391
 26 May,0900h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 26 May,0905h to 1200h,McDonald's,,293 Yishun Street 22,103.837858420722,1.43591598491658
-26 May,1000h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
 26 May,1130h to 2100h,Tiong Bahru Plaza,328 Katong Laksa,298 Tiong Bahru Road,103.828004844701,1.2863085351796
 26 May,1355h to 1700h,VivoCity,,1 HarbourFront Walk,103.82238251183,1.26427727331345
+26 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
 26 May,1400h to 1430h,New Trendy Salon LLP,,84 Redhill Lane,103.818851050947,1.28708575034922
 26 May,1430h to 1500h,One Commonwealth,Passion Bike,1 Commonwealth Lane,103.796927634921,1.30430366397836
 26 May,1430h to 1535h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
-26 May,1630h to 1700h,Yuhua Village Market and Food Centre,,254 Jurong East Street 24,103.737851045986,1.34351625707382
 26 May,1710h to 1740h,Giant Supermarket,,256 Bangkit Road,103.772937487128,1.37904775583142
 26 May,1850h to 2025h,Decathlon – Singapore Lab,,230 Stadium Boulevard,103.882367769241,1.30426016123523
 26 May,2100h to 2130h,Wenxintang Spa,,316B Ang Mo Kio Street 31,103.847677034369,1.36462540270463
 26 May,2115h to 2220h,People's Park Centre,,101 Upper Cross Street,103.843963952339,1.28584018867746
+27 May,0000h to 0730h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 27 to 31 May,0000h to 2359h,Tuas Amenity Centre,,71 Pioneer Road,103.652208660421,1.31720416812204
-27 May,0600h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
-27 May,0630h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
+27 to 28 May,0600h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
+27 to 28 May,0630h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
 27 May,0750h to 0820h,Sheng Siong Supermarket,,417 Fernvale Link,103.879874611419,1.39158622983505
+27 May,0900h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 27 May,0905h to 1030h,Bukit Merah Community Centre,,4000 Jalan Bukit Merah,103.815828547684,1.28525427322707
 27 May,0915h to 1400h,LeVel 33,,8 Marina Boulevard,103.854188393989,1.27998145046295
-27 May,0600h to 1900h,Food Hub,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
+27 May,0945h to 1100h,Jurong Port Pass/ Permit Office,,37 Jurong Port Road,103.722807330979,1.3074595063712
 27 May,1100h to 2230h,Chop Joo Hiong Eating House,,237 Serangoon Avenue 3,103.87013457465,1.35381198342473
 27 May,1125h to 2035h,Tiong Bahru Plaza,328 Katong Laksa,298 Tiong Bahru Road,103.828004844701,1.2863085351796
-27 May,1605h to 1805h,Health Management Centre,,809 French Road,103.862059784174,1.3083939667367
-27 May,1630h to 1700h,Yuhua Village Market and Food Centre,,254 Jurong East Street 24,103.737851045986,1.34351625707382
+27 May,1240h to 1345h,NTUC FairPrice,,50 Havelock Road,103.826802915076,1.2897647546758
+27 May,1400h to 2200h,Atatcutz,,348 Bedok Road,103.948260304303,1.33143623119911
+27 May,1605h to 1810h,Health Management Centre,,809 French Road,103.862059784174,1.3083939667367
 27 May,1700h to 1730h,Sheng Siong Supermarket,,200 Woodlands Industrial Park E7,103.797050379065,1.45089565555643
 27 May,1725h to 1825h,GP Motoring,,282 Macpherson Road,103.877130417609,1.33039834337195
-27 May,2230h to 2300h,Atatzcutz Singapore,,348 Bedok Road,103.948260304303,1.33143623119911
-28 May,0600h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
-28 May,0630h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
+27 May,1755h to 2030h,Lucky Plaza,,304 Orchard Road,103.834005158524,1.3044637897474
+27 May,2230h to 2300h,Atatcutz,,348 Bedok Road,103.948260304303,1.33143623119911
+28 May,0800h to 1800h,Orchard Hotel Singapore,,442 Orchard Road,103.828197283057,1.30762511521725
+28 May,0900h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 28 May,1010h to 1155h,Carole Unisex Salon,,620 Hougang Avenue 8,103.883968140531,1.3701440065551
 28 May,1100h to 2200h,Hougang Green Shopping Mall,Pizza Hut,21 Hougang Street 51,103.887847089168,1.37931783471773
+28 to 31 May,1200h to 1900h,Atatcutz,,348 Bedok Road,103.948260304303,1.33143623119911
 28 May,1300h to 1340h,Masjid Jamek Queenstown,,946 Margaret Drive,103.815415725873,1.29301045552152
 28 May,1615h to 1650h,Sheng Siong Supermarket,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
+28 May,1930h to 0000h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 28 May,1955h to 2055h,The Seletar Mall,NTUC FairPrice,33 Sengkang West Avenue,103.876156956828,1.3913688093851
-28 May,1955h to 2105h,The Seletar Mall,,33 Sengkang West Avenue,103.876156956828,1.3913688093851
+29 May,0000h to 0730h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 29 May,0110h to 0530h,Marina Bay Sands Casino,,10 Bayfront Avenue,103.858562162091,1.28257452719678
 29 May,0600h to 1300h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 29 May,0630h to 1300h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
+29 May,0900h to 1300h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 29 May,1020h to 1100h,The Seletar Mall,,33 Sengkang West Avenue,103.876156956828,1.3913688093851
-29 May,1255h to 2225h,NTUC Foodfare,,476D Upper Serangoon View,103.903623796196,1.37791506138101
 29 May,1315h to 1500h,Chien Chi Tow Healthcare,,78 Redhill Lane,103.818486786844,1.28843088346846
 29 May,1555h to 1645h,Peninsula Plaza Singapore,,111 North Bridge Road,103.85080450702,1.29232248414936
+29 May,1815h to 1915h,Thong Sheng Motors Trading,,7 Pioneer Road North,103.695427890578,1.32483634845564
 29 May,1820h to 2000h,VivoCity,FairPrice Xtra,1 HarbourFront Walk,103.82238251183,1.26427727331345
 29 May,1840h to 1950h,ESR BizPark@Chai Chee,Decathlon,750A Chai Chee Road,103.922124606113,1.32297820248267
-29 May,2030h to 2115h,Plaza Singapura,,68 Orchard Road,103.845067272666,1.30082071769235
+29 to 30 May,1930h to 0000h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
+29 May,2000h to 2035h,Prime Supermarket,,763 Jurong West Street 75,103.698292005963,1.34872644269897
 29 May,2030h to 2055h,Plaza Singapura,Cold Storage,68 Orchard Road,103.845067272666,1.30082071769235
+29 May,2030h to 2115h,Plaza Singapura,,68 Orchard Road,103.845067272666,1.30082071769235
 30 May,0940h to 1630h,NTUC Foodfare,,476D Upper Serangoon View,103.903623796196,1.37791506138101
 30 May,1100h to 2200h,Hougang Green Shopping Mall,Pizza Hut,21 Hougang Street 51,103.887847089168,1.37931783471773
+30 May,1125h to 1200h,Ang Mo Supermarket,,642 Hougang Avenue 8,103.879948293051,1.37169878879802
 30 May,1200h to 1300h,Bugis Street,,3 New Bugis Street,103.854935164999,1.30056609522079
 30 May,1800h to 1900h,Hong Yang Health Products & Foot Reflexology Centre,,38 Beo Crescent,103.827290023383,1.28855393184563
 30 to 31  May,2005h to 0005h,Marina Bay Sands Casino,,10 Bayfront Avenue,103.858562162091,1.28257452719678
+1 Jun,1000h to 1230h,JIC Inspection Services,,53 Pioneer Road,103.657832233969,1.31133149338762
+1 Jun,1100h to 1230h,VICOM Inspection Centre,,511 Bukit Batok Street 2,103.755832339467,1.34175978313366
