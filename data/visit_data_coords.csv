@@ -1,15 +1,5 @@
 Date,Time,Location,Store,Address,lon,lat
-20 May,0800h to 2200h,Westgate,,3 Gateway Drive,103.742722109979,1.33429478930696
-20 to 21 May,0930h to 2130h,Holland Piazza,Tiger Sugar,3 Lorong Liput,103.795246166084,1.31064349551562
-20 May,0910h to 1255h,Resorts World Sentosa Casino,,8 Sentosa Gateway,103.820310245477,1.25675542276498
-20 May,1150h to 1225h,Prime Supermarket,,373 Bukit Batok Street 31,103.750397174291,1.35892457118178
-20 May,1340h to 1510h,Kaki Bukit Recreation Centre,POSB Account Services Centre,7 Kaki Bukit Avenue 3,103.90663168981,1.33729714367902
-20 May,1420h to 1520h,ION Orchard,FLNT at 1-ATICO,2 Orchard Turn,103.831774296637,1.30419841973372
-20 May,1510h to 2100h,Westgate,Pizza Hut,3 Gateway Drive,103.742722109979,1.33429478930696
-20 May,1600h to 2300h,Punggol Plaza,,168 Punggol Field,103.912976437583,1.39418409438271
-20 May,1700h to 2200h,Poke Theory,,238 Thomson Road,103.843840430508,1.32045851808391
-20 May,1730h to 1820h,Chinatown Point,,133 New Bridge Road,103.844942912274,1.28518516098542
-20 May,1820h to 1920h,Rains Foot Massage,,6 Hougang Avenue 3,103.893980503167,1.36271446291047
+21 May,0930h to 2130h,Holland Piazza,Tiger Sugar,3 Lorong Liput,103.795246166084,1.31064349551562
 21 May,0800h to 0850h,Yuhua Community Club,,90 Boon Lay Way,103.737115832566,1.33995851319377
 21 May,0800h to 2200h,Westgate,,3 Gateway Drive,103.742722109979,1.33429478930696
 21 May,0845h to 0915h,Quan Shui Wet Market,,156 Bukit Batok Street 11,103.743842009803,1.34836489977938
@@ -126,7 +116,6 @@ Date,Time,Location,Store,Address,lon,lat
 29 May,2000h to 2035h,Prime Supermarket,,763 Jurong West Street 75,103.698292005963,1.34872644269897
 29 May,2030h to 2055h,Plaza Singapura,Cold Storage,68 Orchard Road,103.845067272666,1.30082071769235
 29 May,2030h to 2115h,Plaza Singapura,,68 Orchard Road,103.845067272666,1.30082071769235
-30 May,0940h to 1630h,NTUC Foodfare,,476D Upper Serangoon View,103.903623796196,1.37791506138101
 30 May,1100h to 2200h,Hougang Green Shopping Mall,Pizza Hut,21 Hougang Street 51,103.887847089168,1.37931783471773
 30 May,1125h to 1200h,Ang Mo Supermarket,,642 Hougang Avenue 8,103.879948293051,1.37169878879802
 30 May,1200h to 1300h,Bugis Street,,3 New Bugis Street,103.854935164999,1.30056609522079
@@ -134,3 +123,4 @@ Date,Time,Location,Store,Address,lon,lat
 30 to 31  May,2005h to 0005h,Marina Bay Sands Casino,,10 Bayfront Avenue,103.858562162091,1.28257452719678
 1 Jun,1000h to 1230h,JIC Inspection Services,,53 Pioneer Road,103.657832233969,1.31133149338762
 1 Jun,1100h to 1230h,VICOM Inspection Centre,,511 Bukit Batok Street 2,103.755832339467,1.34175978313366
+1 Jun,1955h to 2030h,The Seletar Mall,NTUC FairPrice,33 Sengkang West Avenue,103.876156956828,1.3913688093851

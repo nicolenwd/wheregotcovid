@@ -19,7 +19,7 @@ visit_data_clean <- visit_data_raw %>%
   mutate(Location = gsub("^Funan$", "Funan Mall", Location)) %>%
   mutate(Location = gsub("^Seletar Mall$", "The Seletar Mall", Location)) %>%
   mutate(Location = gsub(".*Atat.*", "Atatcutz", Location)) %>%
-  mutate(Store = gsub(visit_data_raw[29, "Store"], "Toys'R'Us", Store, fixed = T))
+  mutate(Store = gsub(visit_data_raw[19, "Store"], "Toys'R'Us", Store, fixed = T))
 
 # # Replacing values in wrong column
 # which((visit_data_clean$Location == "McDonald's"), arr.ind = T)

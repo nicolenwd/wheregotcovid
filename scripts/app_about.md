@@ -13,6 +13,10 @@ The **'Maps'** tab contains 2 interactive maps of the public places:
 <span style="font-size:18px">
 The **'Data'** tab contains an interactive table with details (date, time, location, store, address) on when COVID19 cases visited public places. 
 </span>
+
+<span style="font-size:18px">
+As per Ministry of Health (MOH) advice, there is no need to avoid places where COVID-19 cases have been. The National Environment Agency will engage the management of affected premises to provide guidance on cleaning and disinfection. 
+</span>
 <br><br>
 
 ## **Source**
