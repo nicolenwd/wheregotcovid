@@ -1,25 +1,4 @@
 Date,Time,Location,Store,Address,lon,lat
-21 May,0930h to 2130h,Holland Piazza,Tiger Sugar,3 Lorong Liput,103.795246166084,1.31064349551562
-21 May,0800h to 0850h,Yuhua Community Club,,90 Boon Lay Way,103.737115832566,1.33995851319377
-21 May,0800h to 2200h,Westgate,,3 Gateway Drive,103.742722109979,1.33429478930696
-21 May,0845h to 0915h,Quan Shui Wet Market,,156 Bukit Batok Street 11,103.743842009803,1.34836489977938
-21 May,0915h to 0950h,Le Quest Mall,FairPrice Finest,4 Bukit Batok Street 41,103.741127005764,1.35594171176111
-21 May,1030h to 1100h,Sri Murugan Hill Temple,,931 Upper Bukit Timah Road,103.761623921943,1.37707008676107
-21 May,1100h to 1600h,Punggol Plaza,,168 Punggol Field,103.912976437583,1.39418409438271
-21 May,1100h to 2100h,Indobowl and Royz et Vous,,39 Sultan Gate,103.860598602583,1.3015049295861
-21 May,1105h to 1155h,Al Forno East Coast Pte Ltd,,400 East Coast Road,103.912040445917,1.30869696282346
-21 May,1415h to 1500h,POSB Bukit Batok Central Branch,,636 Bukit Batok Central,103.751825708286,1.34963273798353
-21 May,1445h to 2100h,Westgate,Pizza Hut,3 Gateway Drive,103.742722109979,1.33429478930696
-21 May,1515h to 1600h,JEM,FairPrice Xtra,50 Jurong Gateway Road,103.743262234833,1.3325523295069
-21 May,1600h to 1635h,Da Jin Factory Building,,362 Upper Paya Lebar Road,103.881382637613,1.34805498296882
-21 May,1720h to 1750h,PLQ Mall,,10 Paya Lebar Road,103.892724428994,1.31752384637596
-21 May,1720h to 1755h,NTP+,"The Social Alley, Singapore",151 Lorong Chuan,103.861533171041,1.35148585261178
-21 May,1810h to 1940h,Parkway Parade,,80 Marine Parade Road,103.905113585904,1.30119130647653
-21 May,1820h to 1900h,Keat Hong Shopping Centre,KFC,253 Choa Chu Kang Avenue 1,103.744383225684,1.37743963470096
-21 May,1905h to 1940h,VivoCity,DAISO,1 HarbourFront Walk,103.82238251183,1.26427727331345
-21 May,1940h to 2010h,VivoCity,Toys'R'Us,1 HarbourFront Walk,103.82238251183,1.26427727331345
-21 May,2010h to 2110h,Bukit Batok Golf Range,,2 Bukit Batok West Avenue 7,103.748520902563,1.36577391240463
-21 May,2100h to 2130h,Boon Lay Shopping Centre,NTUC FairPrice,221 Boon Lay Place,103.712472819666,1.34637376407877
 22 May,0000h to 0400h,The Woodgrove,McDonald's,30 Woodlands Avenue 1,103.781337285958,1.42933633490183
 22 May,0740h to 2000h,West Mall,Subway,1 Bukit Batok Central Link,103.749021976618,1.35018916560505
 22 May,0830h to 0930h,Fu Nan Traditional Chinese Medicine Centre,,152 Bukit Batok Street 11,103.744257268105,1.34830189530173
@@ -39,6 +18,7 @@ Date,Time,Location,Store,Address,lon,lat
 22 May,1710h to 1800h,Hafary Pte Ltd,,560 Balestier Road,103.844652596814,1.32697917569246
 22 May,1730h to 1800h,Bukit Timah Plaza,FairPrice Finest,1 Jalan Anak Bukit,103.778560467143,1.33865677622928
 22 May,1900h to 2015h,Lemongrass,,476 Upper Serangoon View,103.903713550367,1.37743337773734
+22 May,2315h to 2345h,Sheng Siong Supermarket,,202 Marsiling Drive,103.775164777049,1.44315121142693
 23 May,0815h to 0920h,Sheng Siong Supermarket,,108 McNair Road,103.859382719506,1.3216190383169
 23 May,1100h to 1225h,Jurong Point,,1 Jurong West Central 2,103.706685012654,1.33945200436318
 23 May,1100h to 2100h,Indobowl and Royz et Vous,,39 Sultan Gate,103.860598602583,1.3015049295861
@@ -64,9 +44,10 @@ Date,Time,Location,Store,Address,lon,lat
 26 to 27 May,0900h to 1700h,Sri Murugan Trading Pte Ltd,,308 Anchorvale Road,103.886445107411,1.38925397515391
 26 May,0900h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 26 May,0905h to 1200h,McDonald's,,293 Yishun Street 22,103.837858420722,1.43591598491658
+26 May,1040h to 1140h,Marsiling Lane Food Centre,,20 Marsiling Lane,103.776967080069,1.44339444325539
 26 May,1130h to 2100h,Tiong Bahru Plaza,328 Katong Laksa,298 Tiong Bahru Road,103.828004844701,1.2863085351796
-26 May,1355h to 1700h,VivoCity,,1 HarbourFront Walk,103.82238251183,1.26427727331345
 26 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
+26 May,1355h to 1700h,VivoCity,,1 HarbourFront Walk,103.82238251183,1.26427727331345
 26 May,1400h to 1430h,New Trendy Salon LLP,,84 Redhill Lane,103.818851050947,1.28708575034922
 26 May,1430h to 1500h,One Commonwealth,Passion Bike,1 Commonwealth Lane,103.796927634921,1.30430366397836
 26 May,1430h to 1535h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
@@ -99,14 +80,18 @@ Date,Time,Location,Store,Address,lon,lat
 28 to 31 May,1200h to 1900h,Atatcutz,,348 Bedok Road,103.948260304303,1.33143623119911
 28 May,1300h to 1340h,Masjid Jamek Queenstown,,946 Margaret Drive,103.815415725873,1.29301045552152
 28 May,1615h to 1650h,Sheng Siong Supermarket,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
+28 May,1830h to 2000h,Causeway Point,,1 Woodlands Square,103.786009973678,1.43608867729912
+28 May,1845h to 1935h,Causeway Point,POPULAR Bookstore,1 Woodlands Square,103.786009973678,1.43608867729912
 28 May,1930h to 0000h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 28 May,1955h to 2055h,The Seletar Mall,NTUC FairPrice,33 Sengkang West Avenue,103.876156956828,1.3913688093851
+28 May,2015h to 2120h,Woodlands Civic Centre,NTUC FairPrice,900 South Woodlands Drive,103.786857742853,1.43518691179968
 29 May,0000h to 0730h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 29 May,0110h to 0530h,Marina Bay Sands Casino,,10 Bayfront Avenue,103.858562162091,1.28257452719678
 29 May,0600h to 1300h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 29 May,0630h to 1300h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
 29 May,0900h to 1300h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 29 May,1020h to 1100h,The Seletar Mall,,33 Sengkang West Avenue,103.876156956828,1.3913688093851
+29 May,1040h to 1140h,Marsiling Lane Food Centre,,20 Marsiling Lane,103.776967080069,1.44339444325539
 29 May,1315h to 1500h,Chien Chi Tow Healthcare,,78 Redhill Lane,103.818486786844,1.28843088346846
 29 May,1555h to 1645h,Peninsula Plaza Singapore,,111 North Bridge Road,103.85080450702,1.29232248414936
 29 May,1815h to 1915h,Thong Sheng Motors Trading,,7 Pioneer Road North,103.695427890578,1.32483634845564
