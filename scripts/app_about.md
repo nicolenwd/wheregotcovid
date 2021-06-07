@@ -30,8 +30,6 @@ Code and input data used to generate this site can be found [here](https://githu
 
 ## **Author**
 <span style="font-size:18px">
-Nicole Neo
+Nicole Neo, [nicolenwd](https://github.com/nicolenwd)
 </span>
-- <span style="font-size:16px"> [Github](https://github.com/nicolenwd) </span>
-- <span style="font-size:16px"> [LinkedIn](https://www.linkedin.com/in/nicolenwd) </span>
 <br><br>

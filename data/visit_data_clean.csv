@@ -1,24 +1,4 @@
 Date,Time,Location,Store,Address
-22 May,0000h to 0400h,The Woodgrove,McDonald's,30 Woodlands Avenue 1
-22 May,0740h to 2000h,West Mall,Subway,1 Bukit Batok Central Link
-22 May,0830h to 0930h,Fu Nan Traditional Chinese Medicine Centre,,152 Bukit Batok Street 11
-22 May,1220h to 1300h,Hup Choon Eating House,,1 Binjai Park
-22 May,1230h to 1300h,NTUC FairPrice,,1 Jalan Bukit Merah
-22 May,1240h to 1310h,NTUC FairPrice,,1 Jalan Bukit Merah
-22 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2
-22 May,1435h to 1510h,Sunshine Place,Giant Supermarket,475 Choa Chu Kang Avenue 3
-22 May,1500h to 2100h,Westgate,Pizza Hut,3 Gateway Drive
-22 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2
-22 May,1515h to 1620h,Joo Chiat Complex,,1 Joo Chiat Road
-22 May,1520h to 1625h,Mustafa Centre,,145 Syed Alwi Road
-22 May,1530h to 1630h,Bukit Timah Plaza,FairPrice Finest,1 Jalan Anak Bukit
-22 May,1605h to 1700h,KINEX,Eccellente by HAO Mart,11 Tanjong Katong Road
-22 May,1620h to 1655h,Le Quest Mall,FairPrice Finest,4 Bukit Batok Street 41
-22 May,1705h to 1740h,Lucky Plaza,,304 Orchard Road
-22 May,1710h to 1800h,Hafary Pte Ltd,,560 Balestier Road
-22 May,1730h to 1800h,Bukit Timah Plaza,FairPrice Finest,1 Jalan Anak Bukit
-22 May,1900h to 2015h,Lemongrass,,476 Upper Serangoon View
-22 May,2315h to 2345h,Sheng Siong Supermarket,,202 Marsiling Drive
 23 May,0815h to 0920h,Sheng Siong Supermarket,,108 McNair Road
 23 May,1100h to 1225h,Jurong Point,,1 Jurong West Central 2
 23 May,1100h to 2100h,Indobowl and Royz et Vous,,39 Sultan Gate
@@ -65,6 +45,7 @@ Date,Time,Location,Store,Address
 27 May,0915h to 1400h,LeVel 33,,8 Marina Boulevard
 27 May,0945h to 1100h,Jurong Port Pass/ Permit Office,,37 Jurong Port Road
 27 May,1100h to 2230h,Chop Joo Hiong Eating House,,237 Serangoon Avenue 3
+27 May,1125h to 1210h,United Square Shopping Mall,,101 Thomson Road
 27 May,1125h to 2035h,Tiong Bahru Plaza,328 Katong Laksa,298 Tiong Bahru Road
 27 May,1240h to 1345h,NTUC FairPrice,,50 Havelock Road
 27 May,1400h to 2200h,Atatcutz,,348 Bedok Road
@@ -105,7 +86,7 @@ Date,Time,Location,Store,Address
 30 May,1125h to 1200h,Ang Mo Supermarket,,642 Hougang Avenue 8
 30 May,1200h to 1300h,Bugis Street,,3 New Bugis Street
 30 May,1800h to 1900h,Hong Yang Health Products & Foot Reflexology Centre,,38 Beo Crescent
-30 to 31  May,2005h to 0005h,Marina Bay Sands Casino,,10 Bayfront Avenue
+30 to 31 May,2005h to 0005h,Marina Bay Sands Casino,,10 Bayfront Avenue
 1 Jun,1000h to 1230h,JIC Inspection Services,,53 Pioneer Road
 1 Jun,1100h to 1230h,VICOM Inspection Centre,,511 Bukit Batok Street 2
 1 Jun,1955h to 2030h,The Seletar Mall,NTUC FairPrice,33 Sengkang West Avenue
