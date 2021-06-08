@@ -133,12 +133,13 @@ map_heatmap <- leaflet(data = merged,
               highlight = highlightOptions(weight = 4, color = "Black",
                                            bringToFront = T),
               group = "Heatmap") %>%
-  addLegend(title = "# of visits by COVID19 cases (past 14 days)", pal = prop_pal, 
-            values = range(merged$n, na.rm=T), 
+  addLegend(title = "# of visits", pal = prop_pal, 
+            values = range(merged$n, na.rm = T), 
+            bins = seq(0, 18, 4), 
             position = "bottomright") %>%
   addLayersControl(baseGroups = c("CartoDB", "OneMapSG"),
                    options = layersControlOptions(collapsed = FALSE),
                    position = "topright") %>%
-  setView(lat = 1.337896, lng = 103.839627, zoom = 10) %>% #Singapore coordinates
+  setView(lat = 1.337896, lng = 103.839627, zoom = 11) %>% #Singapore coordinates
   addResetMapButton()
 map_heatmap

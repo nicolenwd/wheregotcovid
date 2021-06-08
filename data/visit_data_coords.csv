@@ -1,16 +1,10 @@
 Date,Time,Location,Store,Address,lon,lat
-23 May,0815h to 0920h,Sheng Siong Supermarket,,108 McNair Road,103.859382719506,1.3216190383169
-23 May,1100h to 1225h,Jurong Point,,1 Jurong West Central 2,103.706685012654,1.33945200436318
-23 May,1100h to 2100h,Indobowl and Royz et Vous,,39 Sultan Gate,103.860598602583,1.3015049295861
-23 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
-23 May,1430h to 1535h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
-23 May,1755h to 1830h,Changi City Point,,5 Changi Business Park Central 1,103.962946043413,1.33408363820793
-23 May,1955h to 2030h,NEX,FairPrice Xtra,23 Serangoon Central,103.871861615443,1.35067552120318
 24 May,0600h to 1500h,The Woodgrove,McDonald's,30 Woodlands Avenue 1,103.781337285958,1.42933633490183
 24 to 28 May,0600h to 1900h,Food Hub,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
 24 to 29 May,1000h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
 24 May,1155h to 1625h,Ramada,,16 Ah Hood Road,103.846340466467,1.32687187826846
 24 May,1230h to 1300h,D'FoodStop@ABC,,2 Jalan Bukit Merah,103.80686187976,1.2866292132996
+24 May,1230h to 1300h,Fajar Shopping Centre,Giant Supermarket,445 Fajar Road,103.770774778244,1.38358020252974
 24 May,1235h to 1310h,NTUC FairPrice,,30 Bendemeer Road,103.863880362385,1.31906233206995
 24 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
 24 May,1535h to 1640h,Funan Mall,Popsical,107 North Bridge Road,103.849984790048,1.29124400604241
@@ -20,6 +14,7 @@ Date,Time,Location,Store,Address,lon,lat
 25 May,1230h to 1430h,Beauty World Centre,Beauty World Thai Massage,144 Upper Bukit Timah Road,103.776539385678,1.34241264188642
 25 May,1500h to 1550h,Tradehub 21,Rodalink Jurong East Bicycle Megastore,18 Boon Lay Way,103.752749137065,1.32855512493378
 25 May,1535h to 1630h,Sheng Siong Supermarket,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
+25 May,1935h to 2010h,Greenridge Shopping Centre,Giant Supermarket,524A Jelapang Road,103.766235457752,1.38541768689995
 25 May,1800h to 1900h,Al Barakah Health and Beauty Mart,,302 Woodlands Street 31,103.774474062652,1.43186128911103
 26 to 27 May,0900h to 1700h,Sri Murugan Trading Pte Ltd,,308 Anchorvale Road,103.886445107411,1.38925397515391
 26 May,0900h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
@@ -60,6 +55,7 @@ Date,Time,Location,Store,Address,lon,lat
 28 May,1100h to 2200h,Hougang Green Shopping Mall,Pizza Hut,21 Hougang Street 51,103.887847089168,1.37931783471773
 28 to 31 May,1200h to 1900h,Atatcutz,,348 Bedok Road,103.948260304303,1.33143623119911
 28 May,1300h to 1340h,Masjid Jamek Queenstown,,946 Margaret Drive,103.815415725873,1.29301045552152
+28 May,1505h to 1540h,Fajar Shopping Centre,Giant Supermarket,445 Fajar Road,103.770774778244,1.38358020252974
 28 May,1615h to 1650h,Sheng Siong Supermarket,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
 28 May,1830h to 2000h,Causeway Point,,1 Woodlands Square,103.786009973678,1.43608867729912
 28 May,1845h to 1935h,Causeway Point,POPULAR Bookstore,1 Woodlands Square,103.786009973678,1.43608867729912
@@ -85,8 +81,11 @@ Date,Time,Location,Store,Address,lon,lat
 30 May,1100h to 2200h,Hougang Green Shopping Mall,Pizza Hut,21 Hougang Street 51,103.887847089168,1.37931783471773
 30 May,1125h to 1200h,Ang Mo Supermarket,,642 Hougang Avenue 8,103.879948293051,1.37169878879802
 30 May,1200h to 1300h,Bugis Street,,3 New Bugis Street,103.854935164999,1.30056609522079
+30 May,1550h to 1650h,Choa Chu Kang Columbarium,,51 Chinese Cemetery Path 4,103.686619579014,1.37432217346346
 30 May,1800h to 1900h,Hong Yang Health Products & Foot Reflexology Centre,,38 Beo Crescent,103.827290023383,1.28855393184563
 30 to 31 May,2005h to 0005h,Marina Bay Sands Casino,,10 Bayfront Avenue,103.858562162091,1.28257452719678
+31 May,1940h to 2010h,Sheng Siong Supermarket,,446A Fajar Road,103.771350678551,1.38377798738412
+1 Jun,0735h to 0810h,Sheng Siong Supermarket,,446A Fajar Road,103.771350678551,1.38377798738412
 1 Jun,1000h to 1230h,JIC Inspection Services,,53 Pioneer Road,103.657832233969,1.31133149338762
 1 Jun,1100h to 1230h,VICOM Inspection Centre,,511 Bukit Batok Street 2,103.755832339467,1.34175978313366
 1 Jun,1955h to 2030h,The Seletar Mall,NTUC FairPrice,33 Sengkang West Avenue,103.876156956828,1.3913688093851
