@@ -1,24 +1,12 @@
 Date,Time,Location,Store,Address,lon,lat
-26 to 28 May,0600h to 1900h,Food Hub,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
-26 to 29 May,1000h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
-26 to 27 May,0900h to 1700h,Sri Murugan Trading Pte Ltd,,308 Anchorvale Road,103.886445107411,1.38925397515391
-26 May,0900h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
-26 May,0905h to 1200h,McDonald's,,293 Yishun Street 22,103.837858420722,1.43591598491658
-26 May,1040h to 1140h,Marsiling Lane Food Centre,,20 Marsiling Lane,103.776967080069,1.44339444325539
-26 May,1130h to 2100h,Tiong Bahru Plaza,328 Katong Laksa,298 Tiong Bahru Road,103.828004844701,1.2863085351796
-26 May,1320h to 1530h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
-26 May,1355h to 1700h,VivoCity,,1 HarbourFront Walk,103.82238251183,1.26427727331345
-26 May,1400h to 1430h,New Trendy Salon LLP,,84 Redhill Lane,103.818851050947,1.28708575034922
-26 May,1430h to 1500h,One Commonwealth,Passion Bike,1 Commonwealth Lane,103.796927634921,1.30430366397836
-26 May,1430h to 1535h,NTUC FairPrice,,301 Yishun Avenue 2,103.835058273602,1.42951728655036
-26 May,1710h to 1740h,Giant Supermarket,,256 Bangkit Road,103.772937487128,1.37904775583142
-26 May,1850h to 2025h,Decathlon – Singapore Lab,,230 Stadium Boulevard,103.882367769241,1.30426016123523
-26 May,2100h to 2130h,Wenxintang Spa,,316B Ang Mo Kio Street 31,103.847677034369,1.36462540270463
-26 May,2115h to 2220h,People's Park Centre,,101 Upper Cross Street,103.843963952339,1.28584018867746
+27 to 28 May,0600h to 1900h,Food Hub,,455 Sengkang West Avenue,103.871190376558,1.39183688254074
+27 to 29 May,1000h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
+27 May,0900h to 1700h,Sri Murugan Trading Pte Ltd,,308 Anchorvale Road,103.886445107411,1.38925397515391
 27 May,0000h to 0730h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 27 to 31 May,0000h to 2359h,Tuas Amenity Centre,,71 Pioneer Road,103.652208660421,1.31720416812204
 27 to 28 May,0600h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
 27 to 28 May,0630h to 2200h,Hougang Green Shopping Mall,Fu Fa Food Court,21 Hougang Street 51,103.887847089168,1.37931783471773
+27 to 31 May,0645h to 1700h,Takashimaya,St. Leaven,391A Orchard Road,103.834872603881,1.30240769278157
 27 May,0750h to 0820h,Sheng Siong Supermarket,,417 Fernvale Link,103.879874611419,1.39158622983505
 27 May,0835h to 1105h,Marina Bay Sands,Miu Miu,2 Bayfront Avenue,103.857629111139,1.28332249857386
 27 May,0900h to 2100h,NTUC Foodfare,,308 Anchorvale Road,103.886445107411,1.38925397515391
@@ -74,17 +62,20 @@ Date,Time,Location,Store,Address,lon,lat
 30 May,1800h to 1900h,Hong Yang Health Products & Foot Reflexology Centre,,38 Beo Crescent,103.827290023383,1.28855393184563
 30 to 31 May,2005h to 0005h,Marina Bay Sands Casino,,10 Bayfront Avenue,103.858562162091,1.28257452719678
 31 May,1140h to 1500h,Marina Bay Sands,Church's,2 Bayfront Avenue,103.857629111139,1.28332249857386
+31 May,1835h to 1920h,Woodlands Galaxy Community Club,,31 Woodlands Avenue 6,103.80261099143,1.43904161049699
 31 May,1940h to 2010h,Sheng Siong Supermarket,,446A Fajar Road,103.771350678551,1.38377798738412
 1 Jun,0735h to 0810h,Sheng Siong Supermarket,,446A Fajar Road,103.771350678551,1.38377798738412
 1 Jun,1000h to 1230h,JIC Inspection Services,,53 Pioneer Road,103.657832233969,1.31133149338762
 1 Jun,1100h to 1230h,VICOM Inspection Centre,,511 Bukit Batok Street 2,103.755832339467,1.34175978313366
 1 Jun,1725h to 1800h,Yew Tee Point,NTUC FairPrice,21 Choa Chu Kang North 6,103.746558067665,1.39730190912668
 1 Jun,1955h to 2030h,The Seletar Mall,NTUC FairPrice,33 Sengkang West Avenue,103.876156956828,1.3913688093851
+3 to 6 Jun,0645h to 1700h,Takashimaya,St. Leaven,391A Orchard Road,103.834872603881,1.30240769278157
 3 Jun,0845h to 1050h,ION Orchard,Dolce & Gabbana,2 Orchard Turn,103.831774296637,1.30419841973372
 3 Jun,0900h to 1600h,ION Orchard,Four Leaves,2 Orchard Turn,103.831774296637,1.30419841973372
 3 Jun,1645h to 1720h,People's Park Complex,Scarlett Supermarket,1 Park Road,103.842584810783,1.28412862636415
 4 Jun,1300h to 2130h,ION Orchard,Four Leaves,2 Orchard Turn,103.831774296637,1.30419841973372
 5 Jun,0900h to 2130h,ION Orchard,Four Leaves,2 Orchard Turn,103.831774296637,1.30419841973372
+6 to 9 Jun,0600h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 6 Jun,1300h to 2130h,ION Orchard,Four Leaves,2 Orchard Turn,103.831774296637,1.30419841973372
 6 Jun,1000h to 1100h,The Centrepoint,Decathlon,176 Orchard Road,103.840034074858,1.30145045537087
 6 Jun,1100h to 1145h,Orchard Central,UNIQLO,181 Orchard Road,103.839692368177,1.30072350356705
