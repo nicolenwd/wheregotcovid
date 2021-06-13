@@ -16,14 +16,9 @@ visit_data_raw <- fread(here("data", "visit_data_raw.csv"), header = T, encoding
 # Cleaning misspelled locations/stores
 visit_data_clean <- visit_data_raw %>%
   mutate(Location = gsub("^Giant$", "Giant Supermarket", Location)) %>%
-  mutate(Location = gsub("^Funan$", "Funan Mall", Location)) %>%
   mutate(Location = gsub("^Seletar Mall$", "The Seletar Mall", Location)) %>%
   mutate(Location = gsub(".*Atat.*", "Atatcutz", Location))
 
-# # Replacing values in wrong column
-# which((visit_data_clean$Location == "McDonald's"), arr.ind = T)
-# visit_data_clean[103, "Location"] <- "Bedok Mall"
-# visit_data_clean[82, "Store"] <- "McDonald's"
 
 # Sanity check of visit_data_clean to see whether duplicated Address values are due to multiple Locations per Address, or due to unclean data
 length(unique(visit_data_clean$Address))
