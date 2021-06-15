@@ -1,59 +1,73 @@
 ,Date,Time,Location,Store,Address
-0,30 May to 1 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
-1,30 to 31 May,0000h to 2359h,Tuas Amenity Centre ,,71 Pioneer Road
-2,30 to 31 May,0645h to 1700h,Takashimaya ,St. Leaven,391A Orchard Road
-3,30 to 31 May,1200h to 1900h,Atatcutz Singapore ,,348 Bedok Road
-4,30 May to 7 Jun,0600h to 1900h,ION Orchard ,,2 Orchard Turn
-5,30 May,1930h to 0000h,NTUC Foodfare ,,308 Anchorvale Road
-6,30 May,1100h to 2200h,Hougang Green Shopping Mall ,Pizza Hut,21 Hougang Street 51
-7,30 May,1125h to 1200h,Ang Mo Supermarket ,,642 Hougang Avenue 8
-8,30 May,1200h to 1300h,Bugis Street ,,3 New Bugis Street
-9,30 May,1350h to 1440h,NTUC FairPrice ,,37 Teban Gardens Road
-10,30 May,1550h to 1650h,Choa Chu Kang Columbarium ,,51 Chinese Cemetery Path 4
-11,30 May,1630h to 1700h,Marsiling Mall ,Sheng Siong Supermarket,4 Woodlands Street 12
-12,30 May,1800h to 1900h,Hong Yang Health Products & Foot Reflexology Centre ,,38 Beo Crescent
-13,30 to 31 May,2005h to 0005h,Marina Bay Sands Casino ,,10 Bayfront Avenue
-14,31 May,1140h to 1500h,Marina Bay Sands ,Church's,2 Bayfront Avenue
-15,31 May,1835h to 1920h,Woodlands Galaxy Community Club ,,31 Woodlands Avenue 6
-16,31 May,1940h to 2010h,Sheng Siong Supermarket ,,446A Fajar Road
-17,1 Jun,0735h to 0810h,Sheng Siong Supermarket ,,446A Fajar Road
-18,1 Jun,0900h to 0930h,Beo Crescent Market ,,38A Beo Crescent
-19,1 Jun,1000h to 1230h,JIC Inspection Services ,,53 Pioneer Road
-20,1 Jun,1100h to 1230h,VICOM Inspection Centre ,,511 Bukit Batok Street 2
-21,1 Jun,1725h to 1800h,Yew Tee Point ,NTUC FairPrice,21 Choa Chu Kang North 6
-22,1 Jun,1955h to 2030h,Seletar Mall ,FairPrice Finest,33 Sengkang West Avenue
-23,1 Jun,2100h to 2130h,HDB Hub ,NTUC FairPrice,500 Toa Payoh Lorong 6
-24,2 Jun,1320h to 1420h,Novena Square 2 ,Hush Puppies,10 Sinaran Drive
-25,2 Jun,1420h to 1520h,Velocity@Novena Square ,,238 Thomson Road
-26,3 to 6 Jun,0645h to 1700h,Takashimaya ,St. Leaven,391A Orchard Road
-27,3 Jun,0845h to 1050h,ION Orchard ,Dolce & Gabbana,2 Orchard Turn
-28,3 Jun,0900h to 1600h,ION Orchard ,Four Leaves,2 Orchard Turn
-29,3 to 4 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
-30,3 Jun,1645h to 1720h,People's Park Complex ,Scarlett Supermarket,1 Park Road
-31,3 Jun,1900h to 1950h,Peninsula Plaza ,,111 North Bridge Road
-32,3 Jun,1955h to 2035h,Mustafa Centre ,,145 Syed Alwi Road
-33,4 Jun,1300h to 2130h,ION Orchard ,Four Leaves,2 Orchard Turn
-34,5 Jun,0900h to 2130h,ION Orchard ,Four Leaves,2 Orchard Turn
-35,5 Jun,1000h to 1045h,Divine Beauty ,,303 Woodlands Street 31
-36,5 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
-37,6 to 9 Jun,0600h to 1400h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
-38,6 Jun,1000h to 1100h,The Centrepoint ,Decathlon,176 Orchard Road
-39,6 Jun,1100h to 1145h,Orchard Central ,UNIQLO,181 Orchard Road
-40,6 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
-41,6 Jun,1300h to 2130h,ION Orchard ,Four Leaves,2 Orchard Turn
-42,7 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
-43,8 to 10 Jun,0730h to 0815h,Redhill Market ,,79 Redhill Lane
-44,8 Jun,0820h to 0900h,Tiong Bahru Market and Food Centre ,,30 Seng Poh Road
-45,8 Jun,0920h to 1500h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+0,31 May,0000h to 2359h,Tuas Amenity Centre ,,71 Pioneer Road
+1,31 May to 7 Jun,0600h to 1900h,ION Orchard ,,2 Orchard Turn
+2,31 May,0645h to 1700h,Takashimaya ,St. Leaven,391A Orchard Road
+3,31 May,1140h to 1500h,Marina Bay Sands ,Church's,2 Bayfront Avenue
+4,31 May,1200h to 1900h,Atatcutz Singapore ,,348 Bedok Road
+5,31 May to 1 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
+6,31 May,1835h to 1920h,Woodlands Galaxy Community Club ,,31 Woodlands Avenue 6
+7,31 May,1940h to 2010h,Sheng Siong Supermarket ,,446A Fajar Road
+8,31 May,2005h to 0005h,Marina Bay Sands Casino ,,10 Bayfront Avenue
+9,1 Jun,0735h to 0810h,Sheng Siong Supermarket ,,446A Fajar Road
+10,1 Jun,0900h to 0930h,Beo Crescent Market ,,38A Beo Crescent
+11,1 Jun,1000h to 1230h,JIC Inspection Services ,,53 Pioneer Road
+12,1 Jun,1100h to 1230h,VICOM Inspection Centre ,,511 Bukit Batok Street 2
+13,1 Jun,1620h to 1810h,Hair Flare ,,201B Tampines Street 21
+14,1 Jun,1725h to 1800h,Yew Tee Point ,NTUC FairPrice,21 Choa Chu Kang North 6
+15,1 Jun,1955h to 2030h,Seletar Mall ,FairPrice Finest,33 Sengkang West Avenue
+16,1 Jun,2100h to 2130h,HDB Hub ,NTUC FairPrice,500 Toa Payoh Lorong 6
+17,2 Jun,1320h to 1420h,Novena Square 2 ,Hush Puppies,10 Sinaran Drive
+18,2 Jun,1420h to 1520h,Velocity@Novena Square ,,238 Thomson Road
+19,2 Jun,2115h to 2150h,Sheng Shiong Supermarket ,,52 Chin Swee Road
+20,3 to 6 Jun,0645h to 1700h,Takashimaya ,St. Leaven,391A Orchard Road
+21,3 Jun,0845h to 1050h,ION Orchard ,Dolce & Gabbana,2 Orchard Turn
+22,3 Jun,0900h to 1600h,ION Orchard ,Four Leaves,2 Orchard Turn
+23,3 to 4 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
+24,3 Jun,1645h to 1720h,People's Park Complex ,Scarlett Supermarket,1 Park Road
+25,3 Jun,1845h to 1935h,Oasis Terraces ,NTUC FairPrice,681 Punggol Drive
+26,3 Jun,1900h to 1950h,Peninsula Plaza ,,111 North Bridge Road
+27,3 Jun,1955h to 2035h,Mustafa Centre ,,145 Syed Alwi Road
+28,4 Jun,1300h to 2130h,ION Orchard ,Four Leaves,2 Orchard Turn
+29,5 Jun,0900h to 2130h,ION Orchard ,Four Leaves,2 Orchard Turn
+30,5 Jun,1000h to 1045h,Divine Beauty ,,303 Woodlands Street 31
+31,5 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
+32,6 to 9 Jun,0600h to 1400h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+33,6 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+34,6 Jun,1000h to 1100h,The Centrepoint ,Decathlon,176 Orchard Road
+35,6 Jun,1100h to 1145h,Orchard Central ,UNIQLO,181 Orchard Road
+36,6 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
+37,6 Jun,1300h to 2130h,ION Orchard ,Four Leaves,2 Orchard Turn
+38,6 Jun,1700h to 1945h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+39,6 Jun,1955h to 2045h,Queenstown Community Centre ,,365 Commonwealth Avenue
+40,7 Jun,0900h to 1000h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+41,7 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
+42,8 to 10 Jun,0730h to 0815h,Redhill Market ,,79 Redhill Lane
+43,8 Jun,0820h to 0900h,Tiong Bahru Market and Food Centre ,,30 Seng Poh Road
+44,8 Jun,0920h to 1500h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+45,8 Jun,1000h to 1200h,POSB Tiong Bahru Branch ,,302 Tiong Bahru Road
 46,8 Jun,1025h to 1100h,NTUC FairPrice ,,50 Havelock Road
 47,8 Jun,1100h to 1345h,The One Hairstyling Studio ,,123 Lorong 1 Toa Payoh
-48,8 Jun,2015h to 2045h,Ang Mo Kio MRT Station ,,2450 Ang Mo Kio Avenue 8
-49,9 to 11 Jun,0500h to 1800h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
-50,9 to 10 Jun,0600h to 1900h,ION Orchard ,,2 Orchard Turn
-51,9 Jun,0800h to 1500h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
-52,9 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
-53,9 Jun,1510h to 1550h,Tiong Bahru Plaza ,FairPrice Finest,298 Tiong Bahru Road
-54,10 Jun,1205h to 1310h,Renee Hair Salon ,,756 Upper Serangoon Road
-55,11 Jun,0600h to 0900h,ION Orchard ,,2 Orchard Turn
-56,11 Jun,1030h to 1900h,ION Orchard ,,2 Orchard Turn
-57,12 Jun,0500h to 0530h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+48,8 Jun,1325h to 1425h,ION Orchard ,,2 Orchard Turn
+49,8 Jun,1505h to 1555h,Excelsior Shopping Centre ,,5 Coleman Street
+50,8 Jun,2015h to 2045h,Ang Mo Kio MRT Station ,,2450 Ang Mo Kio Avenue 8
+51,9 to 11 Jun,0500h to 1800h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+52,9 to 10 Jun,0600h to 1900h,ION Orchard ,,2 Orchard Turn
+53,9 to 11 Jun,0600h to 1500h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+54,9 Jun,0800h to 1500h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+55,9 Jun,1230h to 2030h,ION Orchard ,Guardian,2 Orchard Turn
+56,9 Jun,1510h to 1550h,Tiong Bahru Plaza ,FairPrice Finest,298 Tiong Bahru Road
+57,10 to 11 Jun,0800h to 1400h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+58,10 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+59,10 Jun,1000h to 1930h,Telok Blangah Food Centre ,Al-barakah Food Corner,79 Telok Blangah Drive
+60,10 Jun,1205h to 1310h,Renee Hair Salon ,,756 Upper Serangoon Road
+61,10 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+62,11 Jun,0600h to 0900h,ION Orchard ,,2 Orchard Turn
+63,11 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+64,11 Jun,1000h to 1930h,Telok Blangah Food Centre ,Al-barakah Food Corner,79 Telok Blangah Drive
+65,11 Jun,1030h to 1900h,ION Orchard ,,2 Orchard Turn
+66,11 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+67,12 Jun,0500h to 0530h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+68,12 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre ,,115 Bukit Merah View
+69,12 Jun,1000h to 1930h,Telok Blangah Food Centre ,Al-barakah Food Corner,79 Telok Blangah Drive
+70,12 Jun,1900h to 1940h,VivoCity ,Swarovski,1 Harbourfront Walk
+71,12 Jun,1900h to 1945h,VivoCity ,,1 Harbourfront Walk
