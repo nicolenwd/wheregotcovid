@@ -47,7 +47,7 @@ ui <- navbarPage(title = "wheregotcovid",
                     tags$p("Data from", tags$a(href = "https://www.moh.gov.sg/news-highlights", "MOH Press Releases - Annexes")),
                     DTOutput("data")),
                  tabPanel("About", includeMarkdown(here("scripts", "app_about.md"))),
-                 tags$head(shiny::includeHTML((here("scripts", "analytics.html"))))
+                 tags$head(shiny::includeHTML(here("scripts", "analytics.html")))
 )
 
 
