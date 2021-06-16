@@ -135,7 +135,7 @@ map_heatmap <- leaflet(data = merged,
               group = "Heatmap") %>%
   addLegend(title = "# of visits", pal = prop_pal, 
             values = range(merged$n, na.rm = T), 
-            bins = seq(0, 20, 4), 
+            bins = seq(0, max(merged$n, na.rm=T), 4), 
             position = "bottomright") %>%
   addLayersControl(baseGroups = c("CartoDB", "OneMapSG"),
                    options = layersControlOptions(collapsed = FALSE),
