@@ -5,16 +5,12 @@ FROM rocker/shiny:latest
 # install debian packages
 RUN apt-get update -qq && apt-get -y --no-install-recommends install \
     libxml2-dev \
-    libcairo2-dev \
-    libpq-dev \
-    libssh2-1-dev \
     libcurl4-openssl-dev \
     libssl-dev \ 
     libudunits2-dev \
     libgdal-dev \
     libgeos-dev \
     libproj-dev \
-    libfontconfig1-dev
 
 ## update system libraries
 RUN apt-get update && \
