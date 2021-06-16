@@ -10,7 +10,7 @@ RUN apt-get update -qq && apt-get -y --no-install-recommends install \
     libudunits2-dev \
     libgdal-dev \
     libgeos-dev \
-    libproj-dev \
+    libproj-dev 
 
 ## update system libraries
 RUN apt-get update && \
