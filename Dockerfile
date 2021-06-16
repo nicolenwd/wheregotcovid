@@ -24,8 +24,5 @@ COPY . .
 RUN Rscript -e 'install.packages("renv")'
 RUN Rscript -e 'renv::restore()'
 
-# remove install files
-RUN rm -rf /var/lib/apt/lists/*
-
 # run app on container start
 CMD ["R", "-e", "shiny::runApp('/scripts', host = '0.0.0.0', port = as.numeric(Sys.getenv('PORT')))"]
