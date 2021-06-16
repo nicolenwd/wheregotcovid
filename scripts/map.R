@@ -14,8 +14,10 @@ library(tidyverse)
 library(here)
 
 # Loading datasets
-visit_data <- read.csv(here("data", "visit_data_clean.csv"), stringsAsFactors = F, encoding = "UTF-8")
-visit_data_coords <- read.csv(here("data", "visit_data_coords.csv"), stringsAsFactors = F, encoding = "UTF-8")
+visit_data <- read.csv("http://raw.github.com/nicolenwd/wheregotcovid/main/data/visit_data_clean.csv", 
+                       stringsAsFactors = F, encoding = "UTF-8")
+visit_data_coords <- read.csv("http://raw.github.com/nicolenwd/wheregotcovid/main/data/visit_data_coords.csv", 
+                              stringsAsFactors = F, encoding = "UTF-8")
 
 # Loading shpfiles for SG Planning Area polygons
 PA <- readOGR(here("data", "planning-area-2019.kml"))

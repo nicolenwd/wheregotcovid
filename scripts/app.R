@@ -1,8 +1,6 @@
 ### RShiny App of public places in Singapore visited by COVID19 cases (past 14 days)
 
 ## A. Set up
-here::i_am("scripts/app.R")
-
 # Loading packages
 library(sp)
 library(sf)
@@ -19,14 +17,14 @@ library(tidyverse)
 library(here)
 
 # Loading leaflet maps
-source(here("scripts", "map.R"))
+source("http://raw.github.com/nicolenwd/wheregotcovid/main/scripts/map.R")
 
 
 ## B. Shiny UI
 ui <- navbarPage(title = "wheregotcovid",
                  theme = shinytheme("cosmo"),
                  tabPanel("Maps",
-                    tags$div("Last Updated: 16 Jun 2021", style = "text-align:right"),
+                    # tags$div("Last Updated: 16 Jun 2021", style = "text-align:right"),
                     tags$h1(tags$strong("Maps")), 
                     tags$div("Locations: Individual public places with details of visits",
                            tags$br(),
@@ -42,7 +40,7 @@ ui <- navbarPage(title = "wheregotcovid",
                       tabPanel("Heatmap", uiOutput("heatmap_ui", height = 500))
                     )),
                  tabPanel("Data", 
-                    tags$div("Last Updated: 16 Jun 2021", style = "text-align:right"),
+                    # tags$div("Last Updated: 16 Jun 2021", style = "text-align:right"),
                     tags$h1(tags$strong("Data")),
                     tags$p("Details of public places in Singapore visited by COVID19 cases (past 14 days)",
                            style = "font-size:18px"),
