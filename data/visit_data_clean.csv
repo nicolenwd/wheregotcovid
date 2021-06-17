@@ -1,14 +1,5 @@
 Date,Time,Location,Store,Address
-1 to 7 Jun,0600h to 1900h,ION Orchard,,2 Orchard Turn
-1 Jun,0735h to 0810h,Sheng Siong Supermarket,,446A Fajar Road
-1 Jun,0900h to 0930h,Beo Crescent Market,,38A Beo Crescent
-1 Jun,1000h to 1230h,JIC Inspection Services,,53 Pioneer Road
-1 Jun,1100h to 1230h,VICOM Inspection Centre,,511 Bukit Batok Street 23
-1 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn
-1 Jun,1620h to 1810h,Hair Flare,,201B Tampines Street 21
-1 Jun,1725h to 1800h,Yew Tee Point,NTUC FairPrice,21 Choa Chu Kang North 6
-1 Jun,1955h to 2030h,The Seletar Mall,FairPrice Finest,33 Sengkang West Avenue
-1 Jun,2100h to 2130h,HDB Hub,NTUC FairPrice,500 Toa Payoh Lorong 6
+2 to 7 Jun,0600h to 1900h,ION Orchard,,2 Orchard Turn
 2 Jun,0725h to 0930h,The Poiz Centre,,51 Upper Serangoon Road
 2 Jun,1320h to 1420h,Novena Square 2,Hush Puppies,10 Sinaran Drive
 2 Jun,1420h to 1520h,Velocity@Novena Square,,238 Thomson Road
@@ -25,6 +16,7 @@ Date,Time,Location,Store,Address
 5 Jun,0900h to 2130h,ION Orchard,Four Leaves,2 Orchard Turn
 5 Jun,1000h to 1045h,Divine Beauty,,303 Woodlands Street 31
 5 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn
+5 Jun,1550h to 1625h,NTUC FairPrice,,849 Yishun Ring Road
 6 to 9 Jun,0600h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 6 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 6 Jun,1000h to 1100h,The Centrepoint,Decathlon,176 Orchard Road
@@ -57,19 +49,33 @@ Date,Time,Location,Store,Address
 10 to 11 Jun,0800h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 10 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 10 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive
+10 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 10 Jun,1205h to 1310h,Renee Hair Salon,,756 Upper Serangoon Road
+10 Jun,1455h to 1730h,Fu Lu Shou Complex,,149 Rochor Road
 10 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 11 Jun,0600h to 0900h,ION Orchard,,2 Orchard Turn
 11 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 11 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive
 11 Jun,1030h to 1900h,ION Orchard,,2 Orchard Turn
+11 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
+11 Jun,1105h to 1140h,Chinatown Complex,Wet Market,335 Smith Street
+11 Jun,1140h to 1215h,Chinatown Complex,myCK – Chinatown,336 Smith Street
 11 Jun,1230h to 1335h,NTUC FairPrice,,166 Bukit Merah Central
 11 Jun,1610h to 1645h,The Clementi Mall,,3155 Commonwealth Avenue West
 11 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 12 Jun,0500h to 0530h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
+12 Jun,0915h to 0945h,Kim San Leng Coffee Shop,,116 Bukit Merah View
 12 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 12 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive
+12 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 12 Jun,1535h to 1610h,Sheng Siong Supermarket,,88 Tanglin Halt Road
+12 Jun,1535h to 1630h,Green Effect Aquarium,,801 French Road
 12 Jun,1900h to 1940h,VivoCity,Swarovski,1 Harbourfront Walk
 12 Jun,1900h to 1945h,VivoCity,,1 Harbourfront Walk
+12 Jun,2040h to 2230h,Night Safari,,80 Mandai Lake Road
+13 Jun,1110h to 1315h,Junction 10,Sheng Siong Supermarket,1 Woodlands Road
+13 Jun,1200h to 1540h,Katong Shopping Centre,,865 Mountbatten Road
 13 Jun,1315h to 1405h,The Clementi Mall,Clementi Public Library,3155 Commonwealth Avenue West
+13 Jun,1500h to 1530h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
+13 Jun,1530h to 1630h,Katong V Mall,NTUC FairPrice,30 East Coast Road
+14 Jun,1130h to 1205h,Teoh Hock Seng,,129 Kim Tian Road
