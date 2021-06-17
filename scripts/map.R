@@ -2,6 +2,7 @@
 
 ## A. Set up
 # Loading packages
+library(readr)
 library(sp)
 library(sf)
 library(rgdal)
@@ -14,9 +15,9 @@ library(tidyverse)
 library(here)
 
 # Loading datasets
-visit_data <- read.csv("http://raw.github.com/nicolenwd/wheregotcovid/main/data/visit_data_clean.csv", 
+visit_data <- read.csv("https://raw.githubusercontent.com/nicolenwd/wheregotcovid/main/data/visit_data_clean.csv", 
                        stringsAsFactors = F, encoding = "UTF-8")
-visit_data_coords <- read.csv("http://raw.github.com/nicolenwd/wheregotcovid/main/data/visit_data_coords.csv", 
+visit_data_coords <- read.csv("https://raw.githubusercontent.com/nicolenwd/wheregotcovid/main/data/visit_data_coords.csv", 
                               stringsAsFactors = F, encoding = "UTF-8")
 
 # Loading shpfiles for SG Planning Area polygons
@@ -60,11 +61,11 @@ map_locations <- leaflet(options = leafletOptions(minZoom = 11, maxZoom = 18)) %
   addProviderTiles("OneMapSG.Default", group = "OneMapSG") %>%
   addCircleMarkers(data = marker_data,
                    lng = ~lon, lat = ~lat,
-                   radius = ~(n_cases*2.5),
+                   radius = ~(n_cases*2),
                    fillOpacity = 0.6, fillColor = "Red", 
                    weight = 2, color = "Black",
                    label = ~lapply(label, HTML), 
-                   labelOptions = labelOptions(textsize = "12px"),
+                   labelOptions = labelOptions(textsize = "11.5px"),
                    group = "Locations") %>%
  setView(lat = 1.332555, lng = 103.847393, zoom = 11) %>% #Singapore coordinates
   addResetMapButton()
