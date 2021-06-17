@@ -65,7 +65,7 @@ map_locations <- leaflet(options = leafletOptions(minZoom = 11, maxZoom = 18)) %
                    fillOpacity = 0.6, fillColor = "Red", 
                    weight = 2, color = "Black",
                    label = ~lapply(label, HTML), 
-                   labelOptions = labelOptions(textsize = "11.5px"),
+                   labelOptions = labelOptions(textsize = "12px"),
                    group = "Locations") %>%
  setView(lat = 1.332555, lng = 103.847393, zoom = 11) %>% #Singapore coordinates
   addResetMapButton()
