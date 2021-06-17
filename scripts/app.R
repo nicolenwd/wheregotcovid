@@ -17,7 +17,7 @@ library(tidyverse)
 library(here)
 
 # Loading leaflet maps
-source("http://raw.github.com/nicolenwd/wheregotcovid/main/scripts/map.R")
+source("https://raw.githubusercontent.com/nicolenwd/wheregotcovid/main/scripts/map.R")
 
 
 ## B. Shiny UI
@@ -36,8 +36,8 @@ ui <- navbarPage(title = "wheregotcovid",
                            tags$br()),
                     textInput("search", "Search Location", placeholder = "e.g. 018971 or Marina Bay Sands"),
                     tabsetPanel(
-                      tabPanel("Locations", uiOutput("locations_ui", height = 500)),
-                      tabPanel("Heatmap", uiOutput("heatmap_ui", height = 500))
+                      tabPanel("Locations", uiOutput("locations_ui")),
+                      tabPanel("Heatmap", uiOutput("heatmap_ui"))
                     )),
                  tabPanel("Data", 
                     # tags$div("Last Updated: 16 Jun 2021", style = "text-align:right"),
@@ -54,14 +54,14 @@ ui <- navbarPage(title = "wheregotcovid",
 ## C. Shiny Server
 server <- function(input, output, session){
   output$locations_ui <- renderUI({
-    leafletOutput("locations")
+    leafletOutput("locations", height = 550)
   })
   output$locations <- renderLeaflet({
     map_locations
   })
 
   output$heatmap_ui <- renderUI({
-    leafletOutput("heatmap")
+    leafletOutput("heatmap", height = 550)
   })
   output$heatmap <- renderLeaflet({
     map_heatmap
