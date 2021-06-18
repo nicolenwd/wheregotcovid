@@ -61,9 +61,9 @@ map_locations <- leaflet(options = leafletOptions(minZoom = 11, maxZoom = 18)) %
   addProviderTiles("OneMapSG.Default", group = "OneMapSG") %>%
   addCircleMarkers(data = marker_data,
                    lng = ~lon, lat = ~lat,
-                   radius = ~(n_cases*2),
-                   fillOpacity = 0.6, fillColor = "Red", 
-                   weight = 2, color = "Black",
+                   radius = ~(n_cases*2.7),
+                   fillOpacity = 0.7, fillColor = "Red", 
+                   weight = 2, opacity = 0.8, color = "Black",
                    label = ~lapply(label, HTML), 
                    labelOptions = labelOptions(textsize = "12px"),
                    group = "Locations") %>%
@@ -138,7 +138,7 @@ map_heatmap <- leaflet(data = merged,
               group = "Heatmap") %>%
   addLegend(title = "# of visits", pal = prop_pal, 
             values = range(merged$n, na.rm = T), 
-            bins = seq(0, max(merged$n, na.rm=T), 4), 
+            bins = seq(0, max(merged$n, na.rm=T), 10), 
             position = "bottomright") %>%
   addLayersControl(baseGroups = c("CartoDB", "OneMapSG"),
                    options = layersControlOptions(collapsed = FALSE),
