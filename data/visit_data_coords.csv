@@ -1,16 +1,18 @@
 Date,Time,Location,Store,Address,lon,lat
-4 to 7 Jun,0600h to 1900h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
-4 to 6 Jun,0645h to 1700h,Takashimaya,St. Leaven,391A Orchard Road,103.834872603881,1.30240769278157
-4 to 12 Jun,0830h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
-4 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn,103.831774296637,1.30419841973372
-4 Jun,1300h to 2130h,ION Orchard,Four Leaves,2 Orchard Turn,103.831774296637,1.30419841973372
+5 to 7 Jun,0600h to 1900h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
+5 to 6 Jun,0645h to 1700h,Takashimaya,St. Leaven,391A Orchard Road,103.834872603881,1.30240769278157
+5 to 12 Jun,0830h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 5 Jun,0900h to 2130h,ION Orchard,Four Leaves,2 Orchard Turn,103.831774296637,1.30419841973372
 5 Jun,1000h to 1045h,Divine Beauty,,303 Woodlands Street 31,103.774011078412,1.43079961583476
+5 Jun,1000h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
+5 Jun,1015h to 1200h,Harvest Care Centre,Harvester Community Church,165 Sims Avenue,103.879155033273,1.31478785277218
 5 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn,103.831774296637,1.30419841973372
+5 Jun,1510h to 1545h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
 5 Jun,1550h to 1625h,NTUC FairPrice,,849 Yishun Ring Road,103.835293763997,1.41697224217054
 6 to 9 Jun,0600h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 6 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 6 Jun,1000h to 1100h,The Centrepoint,Decathlon,176 Orchard Road,103.840034074858,1.30145045537087
+6 Jun,1000h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 6 Jun,1100h to 1145h,Orchard Central,UNIQLO,181 Orchard Road,103.839692368177,1.30072350356705
 6 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn,103.831774296637,1.30419841973372
 6 Jun,1240h to 1345h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
@@ -20,19 +22,24 @@ Date,Time,Location,Store,Address,lon,lat
 6 Jun,1955h to 2045h,Queenstown Community Centre,,365 Commonwealth Avenue,103.801305103523,1.29915023283283
 7 Jun,0630h to 1110h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 7 Jun,0900h to 1000h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
+7 Jun,1000h to 1610h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 7 Jun,1120h to 1200h,Tiong Bahru Plaza,,298 Tiong Bahru Road,103.828004844701,1.2863085351796
 7 Jun,1220h to 1300h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
 7 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn,103.831774296637,1.30419841973372
 7 Jun,1300h to 1505h,Takashimaya,,391A Orchard Road,103.834872603881,1.30240769278157
+7 Jun,1605h to 1710h,Katong V Mall,FairPrice Finest,30 East Coast Road,103.902850370889,1.30385030375717
+7 Jun,1705h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 8 Jun,0630h to 1025h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 8 to 10 Jun,0730h to 0815h,Redhill Market,,79 Redhill Lane,103.818349792057,1.28784702822268
 8 Jun,0820h to 0900h,Tiong Bahru Market and Food Centre,,30 Seng Poh Road,103.832421566287,1.28468599168094
 8 Jun,0920h to 1500h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 8 Jun,1000h to 1200h,POSB Tiong Bahru Branch,,302 Tiong Bahru Road,103.827158267789,1.28647119992724
+8 Jun,1000h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 8 Jun,1025h to 1100h,NTUC FairPrice,,50 Havelock Road,103.826802915076,1.2897647546758
 8 Jun,1035h to 1145h,Tiong Bahru Plaza,,298 Tiong Bahru Road,103.828004844701,1.2863085351796
 8 Jun,1100h to 1345h,The One Hairstyling Studio,,123 Lorong 1 Toa Payoh,103.845703844955,1.33864901784911
 8 Jun,1325h to 1425h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
+8 Jun,1505h to 1540h,TEN DOLLARS SALON,,13 Haig Road,103.895587944619,1.31510752106275
 8 Jun,1505h to 1555h,Excelsior Shopping Centre,,5 Coleman Street,103.849820399819,1.29194592832965
 8 Jun,2015h to 2045h,Ang Mo Kio MRT Station,,2450 Ang Mo Kio Avenue 8,103.849746698247,1.36970693964152
 9 to 11 Jun,0500h to 1800h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
@@ -41,19 +48,24 @@ Date,Time,Location,Store,Address,lon,lat
 9 Jun,0630h to 1100h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 9 Jun,0800h to 1500h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 9 Jun,1000h to 1100h,NTUC Health Senior Activity Centre SilverAce - Henderson,,117 Bukit Merah View,103.821907213378,1.28430105508162
+9 Jun,1000h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 9 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn,103.831774296637,1.30419841973372
 9 Jun,1510h to 1550h,Tiong Bahru Plaza,FairPrice Finest,298 Tiong Bahru Road,103.828004844701,1.2863085351796
 10 to 11 Jun,0800h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 10 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 10 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive,103.807621587927,1.27336490550026
+10 Jun,1000h to 1740h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 10 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 10 Jun,1205h to 1310h,Renee Hair Salon,,756 Upper Serangoon Road,103.878828419385,1.35348087532278
 10 Jun,1455h to 1730h,Fu Lu Shou Complex,,149 Rochor Road,103.854568540158,1.30148706909734
 10 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
+10 Jun,1735h to 1930h,Katong V Mall,FairPrice Finest,30 East Coast Road,103.902850370889,1.30385030375717
+10 Jun,1930h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 11 Jun,0600h to 0900h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
 11 Jun,0630h to 1230h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 11 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 11 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive,103.807621587927,1.27336490550026
+11 Jun,1000h to 1735h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 11 Jun,1030h to 1900h,ION Orchard,,2 Orchard Turn,103.831774296637,1.30419841973372
 11 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 11 Jun,1105h to 1140h,Chinatown Complex,Wet Market,335 Smith Street,103.843177640795,1.28223521144331
@@ -62,13 +74,17 @@ Date,Time,Location,Store,Address,lon,lat
 11 Jun,1235h to 1335h,NTUC FairPrice,,166 Bukit Merah Central,103.817663685706,1.28305664324915
 11 Jun,1610h to 1645h,The Clementi Mall,,3155 Commonwealth Avenue West,103.764596439304,1.31555354277947
 11 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
+11 Jun,1730h to 1815h,Katong V Mall,FairPrice Finest,30 East Coast Road,103.902850370889,1.30385030375717
+11 Jun,1815h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 12 Jun,0500h to 0530h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 12 Jun,0630h to 1115h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 12 Jun,0630h to 1700h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 12 Jun,0915h to 0945h,Kim San Leng Coffee Shop,,116 Bukit Merah View,103.821606935412,1.28512215258239
 12 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 12 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive,103.807621587927,1.27336490550026
+12 Jun,1000h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 12 Jun,1005h to 1035h,NTUC FairPrice,,166 Bukit Merah Central,103.817663685706,1.28305664324915
+12 Jun,1010h to 1215h,Harvest Care Centre,Harvester Community Church,165 Sims Avenue,103.879155033273,1.31478785277218
 12 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 12 Jun,1535h to 1610h,Sheng Siong Supermarket,,88 Tanglin Halt Road,103.798021743473,1.30203802175036
 12 Jun,1535h to 1630h,Green Effect Aquarium,,801 French Road,103.860472435164,1.30736241836644
@@ -77,14 +93,24 @@ Date,Time,Location,Store,Address,lon,lat
 12 Jun,2040h to 2230h,Night Safari,,80 Mandai Lake Road,103.788541352688,1.40354764653419
 13 Jun,0630h to 1150h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 13 Jun,0630h to 1700h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
+13 Jun,0800h to 0835h,NTUC FairPrice,,50 Havelock Road,103.826802915076,1.2897647546758
+13 Jun,1000h to 1535h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 13 Jun,1020h to 1115h,NTUC FairPrice,,166 Bukit Merah Central,103.817663685706,1.28305664324915
 13 Jun,1110h to 1315h,Junction 10,Sheng Siong Supermarket,1 Woodlands Road,103.759993877793,1.38056276998076
 13 Jun,1150h to 1220h,Giant Express,,86 Redhill Close,103.818673592235,1.28692006229628
 13 Jun,1200h to 1540h,Katong Shopping Centre,,865 Mountbatten Road,103.900952077233,1.30381323460707
 13 Jun,1310h to 1520h,VivoCity,Toys 'R' Us,1 Harbourfront Walk,103.82238251183,1.26427727331345
 13 Jun,1315h to 1405h,The Clementi Mall,Clementi Public Library,3155 Commonwealth Avenue West,103.764596439304,1.31555354277947
+13 Jun,1415h to 1505h,Joo Chiat Complex,,1 Joo Chiat Road,103.898397565472,1.31593802099833
 13 Jun,1500h to 1530h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
 13 Jun,1530h to 1630h,Katong V Mall,NTUC FairPrice,30 East Coast Road,103.902850370889,1.30385030375717
+13 Jun,1535h to 1635h,Katong V Mall,FairPrice Finest,30 East Coast Road,103.902850370889,1.30385030375717
+13 Jun,1635h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 14 Jun,0630h to 1600h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
+14 Jun,1010h to 1400h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
 14 Jun,1130h to 1205h,Teoh Hock Seng,,129 Kim Tian Road,103.828856188849,1.28115303287131
 14 Jun,1200h to 2100h,Bake King,,10 Haig Road,103.895864993673,1.31484641105659
+14 Jun,1955h to 2030h,NTUC FairPrice,,166 Bukit Merah Central,103.817663685706,1.28305664324915
+15 Jun,1605h to 1645h,Public Free Clinic Society,,245 Tampines Street 21,103.946489840363,1.35320840937902
+17 Jun,1145h to 1230h,Tiong Bahru Plaza,,298 Tiong Bahru Road,103.828004844701,1.2863085351796
+18 Jun,1330h to 1800h,Redhill MRT Station,Bakery Point,920 Tiong Bahru Road,103.817043991803,1.28934817825578
