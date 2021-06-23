@@ -53,7 +53,7 @@ marker_data$label <- unlist(lapply(seq(nrow(marker_data)), function(i) {
 }))
 marker_data <- marker_data %>% 
   select(Location, Address, lon, lat, n_cases, label) %>%
-  distinct(Location, .keep_all = T) %>%
+  distinct(Location, Address, .keep_all = T) %>%
   arrange(desc(n_cases))
 
 # Leaflet map of individual locations
