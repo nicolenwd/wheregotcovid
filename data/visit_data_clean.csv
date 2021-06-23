@@ -1,16 +1,6 @@
 Date,Time,Location,Store,Address
-7 to 12 Jun,0830h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-7 to 9 Jun,0600h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-7 Jun,0600h to 1900h,ION Orchard,,2 Orchard Turn
-7 Jun,0630h to 1110h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
-7 Jun,0900h to 1000h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-7 Jun,1000h to 1610h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
-7 Jun,1120h to 1200h,Tiong Bahru Plaza,,298 Tiong Bahru Road
-7 Jun,1220h to 1300h,ION Orchard,,2 Orchard Turn
-7 Jun,1230h to 2030h,ION Orchard,Guardian,2 Orchard Turn
-7 Jun,1300h to 1505h,Takashimaya,,391A Orchard Road
-7 Jun,1605h to 1710h,Katong V Mall,FairPrice Finest,30 East Coast Road
-7 Jun,1705h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
+8 to 12 Jun,0830h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
+8 to 9 Jun,0600h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 8 Jun,0630h to 1025h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
 8 to 10 Jun,0730h to 0815h,Redhill Market,,79 Redhill Lane
 8 Jun,0820h to 0900h,Tiong Bahru Market and Food Centre,,30 Seng Poh Road
@@ -39,7 +29,9 @@ Date,Time,Location,Store,Address
 10 Jun,1000h to 1740h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
 10 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 10 Jun,1205h to 1310h,Renee Hair Salon,,756 Upper Serangoon Road
+10 Jun,1345h to 1545h,NTUC FairPrice,,18 Kim Tian Road
 10 Jun,1455h to 1730h,Fu Lu Shou Complex,,149 Rochor Road
+10 Jun,1500h to 1535h,HDB Bukit Merah Branch,,166 Bukit Merah Central
 10 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 10 Jun,1735h to 1930h,Katong V Mall,FairPrice Finest,30 East Coast Road
 10 Jun,1930h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
@@ -55,6 +47,7 @@ Date,Time,Location,Store,Address
 11 Jun,1140h to 1215h,Chinatown Complex,myCK – Chinatown,336 Smith Street
 11 Jun,1230h to 1335h,NTUC FairPrice,,166 Bukit Merah Central
 11 Jun,1235h to 1335h,NTUC FairPrice,,166 Bukit Merah Central
+11 Jun,1325h to 1520h,Hing Show Nails,,82 Marine Parade Central
 11 Jun,1610h to 1645h,The Clementi Mall,,3155 Commonwealth Avenue West
 11 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 11 Jun,1730h to 1815h,Katong V Mall,FairPrice Finest,30 East Coast Road
@@ -95,22 +88,41 @@ Date,Time,Location,Store,Address
 14 Jun,1130h to 1205h,Teoh Hock Seng,,129 Kim Tian Road
 14 Jun,1200h to 2100h,Bake King,,10 Haig Road
 14 Jun,1430h to 1500h,Redhill Market,,79 Redhill Lane
+14 Jun,1940h to 2040h,Jurong Point,,1 Jurong West Central 2
 14 Jun,1955h to 2030h,NTUC FairPrice,,166 Bukit Merah Central
 15 Jun,1605h to 1645h,Public Free Clinic Society,,245 Tampines Street 21
 16 Jun,1020h to 1900h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
 16 Jun,1430h to 1500h,Redhill Market,,79 Redhill Lane
 16 Jun,1740h to 1955h,*SCAPE,Equilibrium Mixed Martial Arts,2 Orchard Link
+16 Jun,1810h to 1900h,Tiong Bahru Plaza,,298 Tiong Bahru Road
 17 Jun,1015h to 1840h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
 17 Jun,1035h to 1240h,NTUC FairPrice,,166 Bukit Merah Central
 17 Jun,1100h to 1300h,Bedok Point,Teo Heng KTV Studio,799 New Upper Changi Road
 17 Jun,1145h to 1230h,Tiong Bahru Plaza,,298 Tiong Bahru Road
+17 Jun,1250h to 1430h,Tiong Bahru Plaza,Khai Yong Heng Goldsmith,298 Tiong Bahru Road
+17 Jun,1535h to 1710h,Hairpost Beauty Salon,,162 Bukit Merah Central
+17 Jun,1640h to 1715h,People's Park Centre,,101 Upper Cross Street
+17 Jun,1745h to 1825h,Sim Lim Square,,1 Rochor Canal Road
+17 Jun,1815h to 2020h,NTUC FairPrice,,166 Bukit Merah Central
 17 Jun,2000h to 2100h,Market Square @ Downtown East,,1 Pasir Ris Close
 18 Jun,1010h to 1800h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
 18 Jun,1225h to 1345h,*SCAPE,Equilibrium Mixed Martial Arts,2 Orchard Link
 18 Jun,1315h to 1345h,Prime Supermarket,,823 Tampines Street 81
+18 Jun,1400h to 1500h,Funan,Premium Eyecare,107 North Bridge Road
 18 Jun,1330h to 1800h,Redhill MRT Station,Bakery Point,920 Tiong Bahru Road
+18 Jun,1800h to 1950h,VivoCity,,1 Harbourfront Walk
 19 Jun,0115h to 0230h,China Square,Livewire,51 Telok Ayer Street
 19 Jun,0955h to 1645h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
+19 Jun,1045h to 1220h,Pasir Panjang Wholesale Centre,Zenxin Organic Food Singapore,1 Wholesale Centre
+19 Jun,1100h to 1400h,Redhill Market,,79 Redhill Lane
 19 Jun,1055h to 1200h,*SCAPE,Equilibrium Mixed Martial Arts,2 Orchard Link
 19 Jun,1100h to 1800h,Katong Shopping Centre,Top Employment Pte Ltd,865 Mountbatten Road
+19 Jun,1700h to 1900h,Redhill Market,,79 Redhill Lane
+19 Jun,1835h to 2135h,Orchid Hotel,JJ Dance Movement,1 Tras Link
+20 Jun,0630h to 0900h,Redhill Market,,79 Redhill Lane
+20 Jun,0640h to 0710h,Giant Express,,86 Redhill Close
 20 Jun,1100h to 1330h,Katong Shopping Centre,Top Employment Pte Ltd,865 Mountbatten Road
+20 Jun,1100h to 1400h,Redhill Market,,79 Redhill Lane
+20 Jun,1700h to 1900h,Redhill Market,,79 Redhill Lane
+21 Jun,0630h to 0900h,Redhill Market,,79 Redhill Lane
+21 Jun,1800h to 1900h,Guan Kim Restaurant,,47 Tanglin Halt Road
