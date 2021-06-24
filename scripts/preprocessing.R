@@ -1,4 +1,4 @@
-###Script that preprocesses data of public places visited by COVID19 cases
+###Script that pre-processes data of public places visited by COVID19 cases
 
 ## A. Set up
 # Loading packages 
@@ -15,6 +15,7 @@ visit_data_raw <- fread(here("data", "visit_data_raw.csv"), header = T, encoding
 ## B. Data pre-processing
 # Cleaning misspelled locations/stores
 visit_data_clean <- visit_data_raw %>%
+  mutate(Location = gsub("^Funan$", "Funan Mall", Location)) %>%
   mutate(Location = gsub("^Giant$", "Giant Supermarket", Location))
 
 # Sanity check of visit_data_clean to see whether duplicated Address values are due to multiple Locations per Address, or due to unclean data
