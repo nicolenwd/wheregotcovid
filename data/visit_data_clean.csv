@@ -1,23 +1,10 @@
 Date,Time,Location,Store,Address
-10  to 11 Jun,0500h to 1800h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-10  to 11 Jun,0600h to 1500h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-10 Jun,0600h to 1900h,ION Orchard,,2 Orchard Turn
-10 Jun,0730h to 0815h,Redhill Market,,79 Redhill Lane
-10  to 12 Jun,0830h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-10 to 11 Jun,0800h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-10 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-10 Jun,1000h to 1740h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
-10 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive
-10 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-10 Jun,1205h to 1310h,Renee Hair Salon,,756 Upper Serangoon Road
-10 Jun,1345h to 1545h,NTUC FairPrice,,18 Kim Tian Road
-10 Jun,1455h to 1730h,Fu Lu Shou Complex,,149 Rochor Road
-10 Jun,1500h to 1535h,HDB Bukit Merah Branch,,166 Bukit Merah Central
-10 Jun,1700h to 2100h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-10 Jun,1735h to 1930h,Katong V Mall,FairPrice Finest,30 East Coast Road
-10 Jun,1930h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
+11 Jun,0500h to 1800h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 11 Jun,0600h to 0900h,ION Orchard,,2 Orchard Turn
+11 Jun,0600h to 1500h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 11 Jun,0630h to 1230h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
+11 Jun,0800h to 1400h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
+11 to 12 Jun,0830h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 11 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
 11 Jun,1000h to 1735h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
 11 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive
@@ -71,17 +58,22 @@ Date,Time,Location,Store,Address
 13 Jun,2000h to 2030h,VivoCity,,1 HarbourFront Walk
 14 Jun,0500h to 1620h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
 14 Jun,0630h to 1600h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
+14 Jun,0745h to 0820h,Eastpoint Mall,NTUC FairPrice,3 Simei Street 6
 14 Jun,1010h to 1400h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
 14 Jun,1130h to 1205h,Teoh Hock Seng,,129 Kim Tian Road
 14 Jun,1200h to 2100h,Bake King,,10 Haig Road
 14 Jun,1430h to 1500h,Redhill Market,,79 Redhill Lane
+14 Jun,1600h to 1700h,COURTS Megastore,,50 Tampines North Drive 2
+14 Jun,1655h to 1830h,IKEA Tampines,,60 Tampines North Drive 2
 14 Jun,1755h to 1925h,City Square Mall,,180 Kitchener Road
 14 Jun,1940h to 2040h,Jurong Point,,1 Jurong West Central 2
 14 Jun,1955h to 2030h,NTUC FairPrice,,166 Bukit Merah Central
 15 Jun,0100h to 0130h,Sheng Siong Supermarket,,108 McNair Road
+15 Jun,1555h to 1630h,Dawson Place,NTUC FairPrice,57 Dawson Road
 15 Jun,1605h to 1645h,Public Free Clinic Society,,245 Tampines Street 21
 15 Jun,1650h to 1800h,Waterway Point,,83 Punggol Central
 15 Jun,1850h to 2130h,Palelai Buddhist Temple,,49 Bedok Walk
+15 Jun,2000h to 2035h,Joo Chiat Complex,Al Barakah,1 Joo Chiat Road
 16 Jun,0940h to 1010h,Geylang Bahru Market and Food Centre,,69 Geylang Bahru
 16 Jun,1020h to 1900h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
 16 Jun,1430h to 1500h,Redhill Market,,79 Redhill Lane
@@ -95,6 +87,7 @@ Date,Time,Location,Store,Address
 17 Jun,1250h to 1430h,Tiong Bahru Plaza,Khai Yong Heng Goldsmith,298 Tiong Bahru Road
 17 Jun,1255h to 1325h,Tiong Bahru Plaza,Khai Yong Heng Goldsmith,298 Tiong Bahru Road
 17 Jun,1535h to 1710h,Hairpost Beauty Salon,,162 Bukit Merah Central
+17 Jun,1605h to 1810h,IKEA Tampines,,60 Tampines North Drive 2
 17 Jun,1640h to 1715h,People's Park Centre,,101 Upper Cross Street
 17 Jun,1640h to 1715h,People's Park Centre,Citri Mobile,101 Upper Cross Street
 17 Jun,1745h to 1825h,Sim Lim Square,,1 Rochor Canal Road
@@ -102,16 +95,18 @@ Date,Time,Location,Store,Address
 17 Jun,2000h to 2100h,Market Square @ Downtown East,,1 Pasir Ris Close
 18 Jun,0945h to 2000h,ION Orchard,Monster Curry,2 Orchard Turn
 18 Jun,1010h to 1800h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
+18 Jun,1225h to 1300h,Lucky Plaza,,304 Orchard Road
 18 Jun,1225h to 1345h,*SCAPE,Equilibrium Mixed Martial Arts,2 Orchard Link
 18 Jun,1315h to 1345h,Prime Supermarket,,823 Tampines Street 81
 18 Jun,1330h to 1800h,Redhill MRT Station,Bakery Point,920 Tiong Bahru Road
 18 Jun,1400h to 1500h,Funan Mall,Premium Eyecare,107 North Bridge Road
-18 Jun,1425h to 1505h,Boon Lay Shopping Centre,LITE Mobile,221 Boon Lay Place
+18 Jun,1425h to 1505h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
 18 Jun,1545h to 1800h,Northpoint City,,930 Yishun Avenue 2
 18 Jun,1745h to 1920h,Mulan/Kyawt Na Di Beauty Salon,,175 Boon Lay Drive
 18 Jun,1800h to 1950h,VivoCity,,1 HarbourFront Walk
 19 Jun,0115h to 0230h,China Square,Livewire,51 Telok Ayer Street
 19 Jun,0945h to 2000h,ION Orchard,Monster Curry,2 Orchard Turn
+19 Jun,0845h to 0930h,Our Tampines Hub,Public Service Centre,1 Tampines Walk
 19 Jun,0955h to 1645h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
 19 Jun,1045h to 1220h,Pasir Panjang Wholesale Centre,Zenxin Organic Food Singapore,1 Wholesale Centre
 19 Jun,1055h to 1200h,*SCAPE,Equilibrium Mixed Martial Arts,2 Orchard Link
@@ -121,16 +116,27 @@ Date,Time,Location,Store,Address
 19 Jun,1835h to 2135h,Orchid Hotel,JJ Dance Movement,1 Tras Link
 20 Jun,0630h to 0900h,Redhill Market,,79 Redhill Lane
 20 Jun,0640h to 0710h,Giant Express,,86 Redhill Close
+20 Jun,0810h to 0900h,Eastpoint Mall,NTUC FairPrice,3 Simei Street 6
 20 Jun,0945h to 2000h,ION Orchard,Monster Curry,2 Orchard Turn
 20 Jun,1100h to 1330h,Katong Shopping Centre,Top Employment Pte Ltd,865 Mountbatten Road
 20 Jun,1100h to 1400h,Redhill Market,,79 Redhill Lane
 20 Jun,1700h to 1900h,Redhill Market,,79 Redhill Lane
+20 Jun,1755h to 1930h,Great World City,,1 Kim Seng Promenade
 20 Jun,1820h to 1855h,Giant Supermarket,,316B Ang Mo Kio Street 31
+20 Jun,1820h to 1855h,Hotel 81 Selegie,,161 Selegie Road
 21 Jun,0630h to 0900h,Redhill Market,,79 Redhill Lane
+21 Jun,0800h to 0955h,Eastpoint Mall,NTUC FairPrice,3 Simei Street 6
 21 Jun,1800h to 1900h,Guan Kim Restaurant,,47 Tanglin Halt Road
 21 Jun,1830h to 2000h,Grand Hyatt Singapore,StraitsKitchen,10 Scotts Road
 21 Jun,1835h to 1940h,Peperoni Pizzeria,,267 Upper Thomson Road
+22 Jun,1345h to 1510h,Hotel 81 Selegie,,161 Selegie Road
+22 Jun,1750h to 2020h,IKEA Tampines,,60 Tampines North Drive 2
+22 Jun,1820h to 1850h,Tiong Bahru Plaza,NTUC FairPrice,302 Tiong Bahru Road
 22 Jun,1905h to 1940h,Plaza Singapura,Kopitiam,68 Orchard Road
 22 Jun,2010h to 2100h,Lucky Plaza,J Star Mobile Electronic,304 Orchard Road
+22 Jun,2015h to 2200h,COURTS Megastore,,50 Tampines North Drive 2
 22 Jun,2110h to 2145h,313@somerset,,313 Orchard Road
 22 Jun,2145h to 2225h,Orchard Central,,181 Orchard Road
+23 Jun,1200h to 1230h,Depot Heights Shopping Centre,Yue Hua Food Court,108 Depot Road
+23 Jun,1425h to 1540h,Sheng Siong Supermarket,,19 Serangoon North Avenue 5
+24 Jun,1400h to 1430h,NTUC FairPrice,,166 Bukit Merah Central
