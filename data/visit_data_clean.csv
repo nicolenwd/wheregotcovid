@@ -1,22 +1,4 @@
 Date,Time,Location,Store,Address
-12 Jun,0500h to 0530h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-12 Jun,0600h to 1700h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
-12 Jun,0630h to 1115h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
-12 Jun,0630h to 1700h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
-12 Jun,0830h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-12 Jun,0915h to 0945h,Kim San Leng Coffee Shop,,116 Bukit Merah View
-12 Jun,0930h to 1430h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-12 Jun,1000h to 1930h,Telok Blangah Food Centre,Al-barakah Food Corner,79 Telok Blangah Drive
-12 Jun,1000h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road
-12 Jun,1005h to 1035h,NTUC FairPrice,,166 Bukit Merah Central
-12 Jun,1010h to 1215h,Harvest Care Centre,Harvester Community Church,165 Sims Avenue
-12 Jun,1100h to 1130h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View
-12 Jun,1105h to 1205h,Junction 8,,9 Bishan Place
-12 Jun,1535h to 1610h,Sheng Siong Supermarket,,88 Tanglin Halt Road
-12 Jun,1535h to 1630h,Green Effect Aquarium,,801 French Road
-12 Jun,1900h to 1940h,VivoCity,Swarovski,1 HarbourFront Walk
-12 Jun,1900h to 1945h,VivoCity,,1 HarbourFront Walk
-12 Jun,2040h to 2230h,Night Safari,,80 Mandai Lake Road
 13 Jun,0630h to 1150h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
 13 Jun,0630h to 1700h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street
 13 Jun,0800h to 0835h,NTUC FairPrice,,50 Havelock Road
@@ -48,6 +30,7 @@ Date,Time,Location,Store,Address
 14 Jun,1940h to 2040h,Jurong Point,,1 Jurong West Central 2
 14 Jun,1955h to 2030h,NTUC FairPrice,,166 Bukit Merah Central
 15 Jun,0100h to 0130h,Sheng Siong Supermarket,,108 McNair Road
+15 Jun,0710h to 0740h,112 Jalan Bukit Merah Market and Food Centre,,112 Jalan Bukit Merah
 15 Jun,1555h to 1630h,Dawson Place,NTUC FairPrice,57 Dawson Road
 15 Jun,1605h to 1645h,Public Free Clinic Society,,245 Tampines Street 21
 15 Jun,1650h to 1800h,Waterway Point,,83 Punggol Central
@@ -85,6 +68,7 @@ Date,Time,Location,Store,Address
 18 Jun,1745h to 1920h,Mulan/Kyawt Na Di Beauty Salon,,175 Boon Lay Drive
 18 Jun,1800h to 1950h,VivoCity,,1 HarbourFront Walk
 19 Jun,0115h to 0230h,China Square,Livewire,51 Telok Ayer Street
+19 Jun,0710h to 0740h,112 Jalan Bukit Merah Market and Food Centre,,112 Jalan Bukit Merah
 19 Jun,0945h to 2000h,ION Orchard,Monster Curry,2 Orchard Turn
 19 Jun,0845h to 0930h,Our Tampines Hub,Public Service Centre,1 Tampines Walk
 19 Jun,0955h to 1645h,Katong Shopping Centre,Central Recruitment Solutions Pte Ltd,865 Mountbatten Road
@@ -109,14 +93,29 @@ Date,Time,Location,Store,Address
 21 Jun,1800h to 1900h,Guan Kim Restaurant,,47 Tanglin Halt Road
 21 Jun,1830h to 2000h,Grand Hyatt Singapore,StraitsKitchen,10 Scotts Road
 21 Jun,1835h to 1940h,Peperoni Pizzeria,,267 Upper Thomson Road
+22 Jun,1230h to 1335h,Tampines Central Community Complex,NTUC FairPrice,866A Tampines Street 83
 22 Jun,1345h to 1510h,Hotel 81 Selegie,,161 Selegie Road
 22 Jun,1750h to 2020h,IKEA Tampines,,60 Tampines North Drive 2
 22 Jun,1820h to 1850h,Tiong Bahru Plaza,NTUC FairPrice,302 Tiong Bahru Road
 22 Jun,1905h to 1940h,Plaza Singapura,Kopitiam,68 Orchard Road
+22 Jun,1945h to 2045h,Ancient Dynasty Massage & Spa,,5 Thong Soon Avenue
 22 Jun,2010h to 2100h,Lucky Plaza,J Star Mobile Electronic,304 Orchard Road
 22 Jun,2015h to 2200h,COURTS Megastore,,50 Tampines North Drive 2
+22 Jun,2055h to 2130h,Han's @ Springleaf Garden,,906 Upper Thomson Road
 22 Jun,2110h to 2145h,313@somerset,,313 Orchard Road
 22 Jun,2145h to 2225h,Orchard Central,,181 Orchard Road
+23 Jun,0710h to 0740h,112 Jalan Bukit Merah Market and Food Centre,,112 Jalan Bukit Merah
+23 Jun,0850h to 1000h,Afghanistan Family Restaurant,,201E Tampines Street 23
 23 Jun,1200h to 1230h,Depot Heights Shopping Centre,Yue Hua Food Court,108 Depot Road
 23 Jun,1425h to 1540h,Sheng Siong Supermarket,,19 Serangoon North Avenue 5
+23 Jun,1535h to 1745h,Tampines 1,,10 Tampines Central 1
+23 Jun,1645h to 1715h,National University Hospital Medical Centre,Kopitiam,1 Lower Kent Ridge Road
+24 Jun,0950h to 1035h,Mukmin Restaurant Bedok,,129 Bedok North Street 2
+24 Jun,1230h to 1300h,Varinice Eating House,Golden Rooster Clementi,450 Clementi Avenue 3
 24 Jun,1400h to 1430h,NTUC FairPrice,,166 Bukit Merah Central
+24 Jun,1645h to 1715h,National University Hospital Medical Centre,Kopitiam,1 Lower Kent Ridge Road
+24 Jun,1710h to 2210h,NKF Dialysis Centre,,935 Tampines Street 91
+25 Jun,1045h to 1115h,Albert Centre,,270 Queen Street
+25 Jun,1400h to 1430h,Clementi 448 Market & Food Centre,,448 Clementi Avenue 3
+25 Jun,1525h to 2320h,OUE Downtown 1,Oakwood Premier AMTD Singapore,6 Shenton Way
+25 Jun,1935h to 2115h,Lau Pa Sat,,18 Raffles Quay
