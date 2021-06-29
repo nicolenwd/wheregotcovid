@@ -1,22 +1,4 @@
 Date,Time,Location,Store,Address,lon,lat
-13 Jun,0630h to 1150h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
-13 Jun,0630h to 1700h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
-13 Jun,0800h to 0835h,NTUC FairPrice,,50 Havelock Road,103.826802915076,1.2897647546758
-13 Jun,1000h to 1535h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
-13 Jun,1020h to 1115h,NTUC FairPrice,,166 Bukit Merah Central,103.817663685706,1.28305664324915
-13 Jun,1035h to 1110h,Thomson Plaza,Daiso Japan,301 Upper Thomson Road,103.831053292454,1.35502885653149
-13 Jun,1110h to 1315h,Junction 10,Sheng Siong Supermarket,1 Woodlands Road,103.759993877793,1.38056276998076
-13 Jun,1150h to 1220h,Giant Express,,86 Redhill Close,103.818673592235,1.28692006229628
-13 Jun,1200h to 1530h,Katong Shopping Centre,,865 Mountbatten Road,103.900952077233,1.30381323460707
-13 Jun,1310h to 1520h,VivoCity,Toys 'R' Us,1 HarbourFront Walk,103.82238251183,1.26427727331345
-13 Jun,1315h to 1405h,The Clementi Mall,Clementi Public Library,3155 Commonwealth Avenue West,103.764596439304,1.31555354277947
-13 Jun,1320h to 1430h,VivoCity,Toys 'R' Us,1 HarbourFront Walk,103.82238251183,1.26427727331345
-13 Jun,1415h to 1505h,Joo Chiat Complex,,1 Joo Chiat Road,103.898397565472,1.31593802099833
-13 Jun,1500h to 1530h,115 Bukit Merah View Market & Hawker Centre,,115 Bukit Merah View,103.822049433334,1.28550483170444
-13 Jun,1530h to 1630h,Katong V Mall,NTUC FairPrice,30 East Coast Road,103.902850370889,1.30385030375717
-13 Jun,1535h to 1635h,Katong V Mall,FairPrice Finest,30 East Coast Road,103.902850370889,1.30385030375717
-13 Jun,1635h to 2000h,Katong Shopping Centre,Union United Employment Pte Ltd,865 Mountbatten Road,103.900952077233,1.30381323460707
-13 Jun,2000h to 2030h,VivoCity,,1 HarbourFront Walk,103.82238251183,1.26427727331345
 14 Jun,0500h to 1620h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 14 Jun,0630h to 1600h,Tiong Bahru Yong Tao Hu,,56 Eng Hoon Street,103.833923067555,1.28424137023495
 14 Jun,0745h to 0820h,Eastpoint Mall,NTUC FairPrice,3 Simei Street 6,103.953050756306,1.34269199750599
@@ -46,6 +28,7 @@ Date,Time,Location,Store,Address,lon,lat
 17 Jun,1035h to 1240h,NTUC FairPrice,,166 Bukit Merah Central,103.817663685706,1.28305664324915
 17 Jun,1100h to 1300h,Bedok Point,Teo Heng KTV Studio,799 New Upper Changi Road,103.932384005117,1.32480102552267
 17 Jun,1145h to 1230h,Tiong Bahru Plaza,,298 Tiong Bahru Road,103.828004844701,1.2863085351796
+17 Jun,1220h to 1315h,Healthy Path Spa,,84 Bedok North Street 4,103.939208398976,1.33178245077455
 17 Jun,1250h to 1320h,Healthy Path Spa,,84 Bedok North Street 4,103.939208398976,1.33178245077455
 17 Jun,1250h to 1430h,Tiong Bahru Plaza,Khai Yong Heng Goldsmith,298 Tiong Bahru Road,103.828004844701,1.2863085351796
 17 Jun,1255h to 1325h,Tiong Bahru Plaza,Khai Yong Heng Goldsmith,298 Tiong Bahru Road,103.828004844701,1.2863085351796
@@ -112,6 +95,7 @@ Date,Time,Location,Store,Address,lon,lat
 23 Jun,1645h to 1715h,National University Hospital Medical Centre,Kopitiam,1 Lower Kent Ridge Road,103.784084011452,1.29277431990535
 24 Jun,0950h to 1035h,Mukmin Restaurant Bedok,,129 Bedok North Street 2,103.938030484223,1.32755443192195
 24 Jun,1230h to 1300h,Varinice Eating House,Golden Rooster Clementi,450 Clementi Avenue 3,103.765476305204,1.31353886128
+24 Jun,1230h to 1330h,Toh Guan Centre,Shi Fu Food Court,21 Toh Guan Road East,103.754671532572,1.33765798645516
 24 Jun,1400h to 1430h,NTUC FairPrice,,166 Bukit Merah Central,103.817663685706,1.28305664324915
 24 Jun,1645h to 1715h,National University Hospital Medical Centre,Kopitiam,1 Lower Kent Ridge Road,103.784084011452,1.29277431990535
 24 Jun,1710h to 2210h,NKF Dialysis Centre,,935 Tampines Street 91,103.9410773896,1.34563428737776
