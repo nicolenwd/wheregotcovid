@@ -145,4 +145,5 @@ map_heatmap <- leaflet(data = merged,
                    position = "topright") %>%
   setView(lat = 1.337896, lng = 103.839627, zoom = 11) %>% #Singapore coordinates
   addResetMapButton()
+
 map_heatmap
