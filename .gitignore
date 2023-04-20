@@ -4,3 +4,8 @@
 .Rproj.user
 scripts/draft.R
 scripts/.ipynb_checkpoints/
+scripts/rsconnect/
+.dockerignore
+Dockerfile
+heroku.yml
+
