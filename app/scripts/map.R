@@ -15,9 +15,9 @@ library(tidyverse)
 library(here)
 
 # Loading datasets
-visit_data <- read.csv("https://raw.githubusercontent.com/nicolenwd/wheregotcovid/main/data/visit_data_clean.csv", 
+visit_data <- read.csv("https://raw.githubusercontent.com/nicolenwd/wheregotcovid/main/app/data/visit_data_clean.csv", 
                        stringsAsFactors = F, encoding = "UTF-8")
-visit_data_coords <- read.csv("https://raw.githubusercontent.com/nicolenwd/wheregotcovid/main/data/visit_data_coords.csv", 
+visit_data_coords <- read.csv("https://raw.githubusercontent.com/nicolenwd/wheregotcovid/main/app/data/visit_data_coords.csv", 
                               stringsAsFactors = F, encoding = "UTF-8")
 
 # Loading shpfiles for SG Planning Area polygons
