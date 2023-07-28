@@ -6,3 +6,4 @@ app/scripts/.ipynb_checkpoints/
 app/scripts/analytics.html
 app/rsconnect/
 heroku/
+.Rproj.user
