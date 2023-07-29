@@ -113,10 +113,11 @@ merged <- sp::merge(PA, visit_prop_per_PA, by = "Name")
 # Creating labels for each PA polygon
 merged$label <- unlist(lapply(seq(nrow(merged)), function(x) {
   data <- as.data.frame(merged)
-  paste0("<strong>", data[x,"Name"], "</strong>", "<br>",
-         "# of visits by COVID19 cases: ", data[x, "n"],
-         "<br>", "% of all visits by COVID19 cases: ",
-         as.character(round(data[x, "visit_prop"], 1)), "%")
+  paste0("<strong>", data[x, "Name"], "</strong>", "<br>",
+         ifelse(is.na(data[x, "n"]), "0", data[x, "n"]),
+         " visits by COVID19 cases", 
+         "<br>", ifelse(is.na(data[x, "visit_prop"]), "0", (as.character(round(data[x, "visit_prop"])))),
+         "% of all visits by COVID19 cases")
 }))
 
 # Color palette for heatmap
